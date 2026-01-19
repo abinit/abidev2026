@@ -9,7 +9,7 @@ description: 12th International ABINIT Developer Workshop <br> Sant Feliu de Gui
 
 The web site for the Abinit developer workshop 2026 - In construction !
 
-TRY : style.css in assets/css, modified color
+TRY : color adujtment, reddish
 
 # Pages
 - [Program](program.md)

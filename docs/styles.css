@@ -1,0 +1,347 @@
+/* Set margin on top of the page */
+body {
+  margin-top: 0;
+  width: 100vw;
+  height: 100vh;
+  font-family: Arial, sans-serif;
+  padding: 0;
+}
+
+/* Carousel container */
+.carousel-container {
+  width: 100%;
+  max-width: 500px; /* Set a max-width for the carousel */
+  height: 300px; /* Set a fixed height for the carousel */
+  margin: 0 auto; /* Center the carousel */
+  margin-top: 10px;
+  overflow: hidden; /* Hide any overflowing content */
+  position: relative; /* Position the carousel relative to its container */
+}
+
+.carousel-slide {
+  width: 100%;
+  height: 100%;
+  display: none; /* Hide all slides initially */
+  position: absolute; /* Position each slide absolutely within the container */
+  top: 0;
+  left: 0;
+}
+
+.carousel-slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ensure images cover the entire slide area */
+}
+
+.carousel-slide.active {
+  display: block; /* Display the active slide */
+}
+
+.separator-line1,
+.separator-line2 {
+  border-top: 4px solid #F18F34; /* Increase the thickness by changing the pixel value */
+  width: calc(100% - 50%); /* Adjust the width to accommodate margins */
+  margin: 30px auto; /* Set top and bottom margin to 20px, and center horizontally */
+}
+
+.separator-line2 {
+  margin-left: 25%;
+}
+
+.abinit-info {
+  margin: 10px 20%;
+  color: black;
+}
+
+.abinit-info .toolong .more-link,
+.abinit-info .toolong .less-link {
+  color: #F18F34;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.toolong {
+  font-size: 14px; /* Adjust font size */
+}
+
+.toolong span {
+  display: block;
+  margin-bottom: 10px; /* Adjust spacing between paragraphs */
+}
+
+.details {
+  display: none; /* Hide details by default */
+}
+
+.abinit-info h2 {
+  font-size: 16px; /* Example font size */
+  color: black; /* Example color */
+  font-weight: bold; /* Example font weight */
+  margin-bottom: 10px; /* Example bottom margin */
+}
+
+.abinit-info h3 {
+  font-size: 16px; /* Example font size */
+  color: black; /* Example color */
+  margin-left: 20px; /* Example bottom margin */
+}
+
+.abinit-info h4 {
+  font-size: 16px; /* Example font size */
+  color: black; /* Example color */
+  margin-left: 5%; /* Example bottom margin */
+}
+
+.lower_block {
+  margin: -20px 18%;
+}
+
+.content-bottom.row {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.content-bottom2.row {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.lower_block h4 {
+  font-size: 14px; /* Example font size */
+  color: black; /* Example color */
+  font-weight: bold; /* Example font weight */
+  margin-bottom: 10px; /* Example bottom margin */
+  margin-left: 35px;
+}
+
+.footer_desc {
+  font-size: 12px;
+  color: #F18F34; /* Set the color to orange */
+}
+
+.footer_desc ul li a {
+  color: #F18F34; /* Set the color of links inside the footer_desc to orange */
+  margin-left: 0px;
+}
+
+.carousel-indicators {
+  position: absolute;
+  bottom: 0; /* Adjust as needed */
+  left: 35%;
+  transform: translateX(-50%);
+  z-index: 1000; /* Ensure it's above the carousel items but below controls if needed */
+}
+
+.carousel-indicators li {
+  width: 8px; /* Set width of indicators */
+  height: 8px; /* Set height of indicators */
+  margin: 0 3px; /* Adjust margin between indicators */
+  border-radius: 50%; /* Make indicators round */
+  background-color: black; /* Set default background color */
+  border: 1px solid #fff; /* Add border to indicators */
+  border: 4px solid #9acfea; /* Add border to indicators with light blue color */
+}
+
+.carousel-indicators .active {
+  background-color: black; /* Set background color for active indicator */
+}
+
+.content-bottom2 {
+  margin: 2% 20%;
+}
+
+.content-sponsors img {
+  height: 30px;
+}
+
+.content {
+  font-size: 5px; /* Example font size */
+  color: gray; /* Example color */
+  font-weight: bold; /* Example font weight */
+}
+
+.LatestVersion {
+  position: absolute;
+  top: 30px; /* Adjust the distance from the bottom */
+  left: 0px;
+}
+
+.blinker {
+    display: flex;
+    align-items: center; /* Align items vertically in the center */
+    margin-left: 42%;
+}
+
+.blink_me {
+    opacity: 1;
+    animation: fadeInOut 2s linear infinite;
+    margin-right: 10px; /* Adjust margin between "New :" and the link */
+}
+
+@keyframes fadeInOut {
+    0%, 100% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+}
+
+/* Ensure links are styled properly */
+.container a {
+    text-decoration: none; /* Remove default underline */
+    color: #F18F34; /* Set link color */
+    align-items: center;
+}
+
+/* Common styles for all screen sizes */
+.icon-container {
+    display: none; /* Hide by default on mobile */
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; /* Center the icons */
+    transition: all 0.3s ease-in-out;
+    z-index: 2; /* Ensure it appears above other content */
+    padding: 10px 0; /* Add some padding for better spacing */
+    overflow-x: hidden; /* Prevent horizontal overflow */
+    width: 100%; /* Make sure the container takes full width */
+    box-sizing: border-box; /* Include padding in width calculation */
+    margin-left: 0%;
+    margin-top: 1%;
+}
+
+.icon-container.active {
+    display: flex; /* Show when active */
+}
+
+.icon {
+    margin: 10px 0; /* Adjust the margin for better spacing */
+    text-align: center;
+    max-width: 100px; /* Ensure icons do not exceed a certain width */
+    width: 100%;
+    align-items: center;
+}
+
+.icon img {
+    width: 100%;
+    height: auto;
+    max-width: 100px; /* Ensure images do not exceed a certain width */
+    align-items: center;
+    margin-left: 5%;
+    margin-right: 300px;
+}
+.icon img-logo {
+    margin: 20px 0; /* Adjust the margin for better spacing */
+    text-align: center;
+    width: 100%;
+    align-items: center;
+    margin-right: 500px;
+    margin-left: -50px;
+}
+
+.title {
+  display: block;
+  font-size: 12px;
+  color: #F18F34;
+  margin-top: 5px;
+  text-align: center;
+  margin-right: 180px;
+}
+
+/* For larger screens (desktops, laptops) */
+@media (min-width: 769px) {
+    .icon-container {
+        display: flex; /* Show by default on larger screens */
+        flex-direction: row;
+        justify-content: center;
+        padding: 0; /* Remove extra padding */
+        align-items: center;
+    }
+
+    .icon-row {
+        display: flex;
+        flex-wrap: nowrap; /* Prevent wrapping into multiple rows */
+        justify-content: center;
+        margin-bottom: 10px;
+        align-items: center;
+        padding: 10px;
+    }
+
+    .icon {
+        margin: 5px 20px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .icon img {
+        max-width: 100px;
+        height: auto;
+        align-items: center;
+        margin-left: 5%;
+    }
+
+    .title {
+        font-size: 12px;
+        color: #F18F34;
+        margin-top: 5px;
+        text-align: center;
+    }
+
+    /* Hide burger menu on larger screens */
+    .burger-menu {
+        display: none;
+    }
+}
+
+/* Styles for smaller screens (tablets, mobile) */
+@media (max-width: 768px) {
+    .burger-menu {
+        display: block;
+        cursor: pointer;
+        font-size: 30px;
+    }
+
+    .icon-container {
+        display: none; /* Show by default on larger screens */
+        flex-direction: column;
+        justify-content: center;
+        padding: 0; /* Remove extra padding */
+        align-items: center;
+    }
+
+    .icon-row {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-bottom: 10px;
+        align-items: center;
+    }
+
+    .title {
+      display: block;
+      font-size: 12px;
+      color: #F18F34;
+      margin-top: 5px;
+      text-align: center;
+      margin-right: -120px;
+      margin-left: -100px;
+    }
+
+    .icon img {
+        max-width: 100px;
+        height: auto;
+        align-items: center;
+        margin-left: 5%;
+    }
+}
+
+/* Style for the logo image */
+.logo {
+    height: 100px;
+    max-width: 100%;
+    display: block;
+    margin: 0 100px 0 0;
+}

@@ -7,7 +7,10 @@ description: 12th International ABINIT Developer Workshop <br> Sant Feliu de Gui
 [Program](program.md) | [Registration](registration.md) | [Practical information](practical.md) | [Organizing committee](organizing.md)
 <hr>
 
-# Registration
-
-The web site for the Abinit developer workshop 2026 - In construction !
+# Organizing committee
+- Massimiliano Stengel, ICMAB-CSIC, Spain and ICREA, Spain
+- Marc Torrent, marc.torrent@cea.fr, CEA, France
+- Xavier Gonze, xavier.gonze@uclouvain.be, UC Louvain, Belgium
+- Matthieu Verstraete, matthieu.verstraete@uliege.be, ULiège, Belgium
+- Miquel Royo, mroyo@icmab.es, ICMAB-CSIC, Spain
 

@@ -26,5 +26,5 @@ The web site for the Abinit developer workshop 2026 - In construction !
 - [CEA](https://www.cea.fr/)  
 - [ICMAB-CSIC](https://icmab.es/)
 
-![](logo/psik.png)  ![](logo/psik.png)
+![](logo/psik.png)  ![](logo/logo_cea.png)
 

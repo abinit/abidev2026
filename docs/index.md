@@ -2,7 +2,7 @@
 layout: default
 title: ABIDEV 2026
 tagline: ABIDEV 2026
-description: 12th International ABINIT Developer Workshop // Sant Feliu de Guixols, Catalonia, Spain, 8-11 June 2026
+description: 12th International ABINIT Developer Workshop <br> Sant Feliu de Guixols, Catalonia, Spain, 8-11 June 2026
 ---
 
 # Overview
@@ -22,7 +22,9 @@ The web site for the Abinit developer workshop 2026 - In construction !
 - Miquel Royo, mroyo@icmab.es, ICMAB-CSIC, Spain
 
 # Sponsors
-- [psi-k network](https://psi-k.net/) ![](logo/psik.png)
-- [CEA](https://www.cea.fr/) ![](logo/logo_cea.png)
+- [psi-k network](https://psi-k.net/) 
+- [CEA](https://www.cea.fr/)  
 - [ICMAB-CSIC](https://icmab.es/)
+
+![](logo/psik.png)  ![](logo/psik.png)
 

@@ -10,8 +10,8 @@ description: 12th International ABINIT Developer Workshop <br> Sant Feliu de Gui
 # Organizing committee
 
 - Massimiliano Stengel, ICMAB-CSIC, Spain and ICREA, Spain
-- Marc Torrent, marc.torrent@cea.fr, CEA, France
-- Xavier Gonze, xavier.gonze@uclouvain.be, UC Louvain, Belgium
-- Matthieu Verstraete, matthieu.verstraete@uliege.be, ULiège, Belgium
-- Miquel Royo, mroyo@icmab.es, ICMAB-CSIC, Spain
+- Marc Torrent, CEA, France
+- Xavier Gonze, UC Louvain, Belgium
+- Matthieu Verstraete, ULiège, Belgium
+- Miquel Royo, ICMAB-CSIC, Spain
 

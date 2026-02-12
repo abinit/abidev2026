@@ -23,7 +23,7 @@ For the bank transfer :
  * IBAN : BE52 3701 2883 7309
  * BIC  : BBRUBEBB
  * To : UNIVERSITE CATHOLIQUE DE LOUVAIN, PLACE DE L'UNIVERSITE 1, 1348 LOUVAIN-LA-NEUVE
- * Communication : Name of the attendant
+ * Communication : ABIDEV2026 Fee <Name of the attendant>
 
 The deadline for receiving the registration fee is March 22, 2026 (the hotel must know the number of booked rooms by March 31, 2026).
 

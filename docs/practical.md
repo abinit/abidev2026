@@ -9,7 +9,15 @@ description: 12th International ABINIT Developer Workshop <br> Sant Feliu de Gui
 
 # Location
 
-[Hotel Eden Roc, Sant Feliu de Guixols, Spain](https://www.edenrochotel.com/en/)
+The workshop will take place at the very nice
+[Hotel Eden Roc, Sant Feliu de Guixols, Spain](https://www.edenrochotel.com/en/).
 
-More to come !
+# How to reach the conference location ?
+
+The closest airports are Barcelona (2h away) and Girona (45 min away) ones.
+
+There are regular buses connecting both airports to Sant Feliu.
+From the bus station to the hotel it's a 10 minutes walk . 
+
+More information (maps, links) to come ...
 

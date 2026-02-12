@@ -21,3 +21,6 @@ From the bus station to the hotel it's a 10 minutes walk .
 
 More information (maps, links) to come ...
 
+# Other questions ?
+
+Contact <a href="mailto:abidev2026@abinit.org">abidev2026@abinit.org</a>.

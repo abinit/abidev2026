@@ -17,7 +17,9 @@ This registration is needed, for both invited speakers and normal participants.
 For invited speakers, no payment is needed (so, no registration fee).
 
 For the other participants,
-the registration will be effective when you will have paid the registration fee by bank transfer or if a global payment from your institution has been secured by direct contact with the organisers abidev2026@abinit.org .
+the registration will be effective when you will have paid the registration fee by bank transfer or if a global payment from your institution has been secured by direct contact with the organisers,
+<a href="mailto:abidev2026@abinit.org">abidev2026@abinit.org</a>.
+
 For the bank transfer :
 
  * IBAN : BE52 3701 2883 7309
@@ -39,9 +41,13 @@ It is also possible to register for lunches and coffee breaks only (local partic
 So, please pay the registration fee before March 22, 2026.
 
 In case you wish to arrive on Sunday 7 June or earlier, or leave on Friday 12 June or later, so, for additional nights, 
-please contact Mrs Montse Salas (msalas@icmab.es) at the ICMAB, with a copy to abidev2026@abinit.org .
+please contact Mrs Montse Salas 
+<a href="mailto:msalas@icmab.es">msalas@icmab.es</a>.
+at the ICMAB, with a copy (IMPORTANT) to 
+<a href="mailto:abidev2026@abinit.org">abidev2026@abinit.org</a>.
 The cost of the additional nights will have to be paid directly to the hotel. A credit card number might be needed to secure the booking.
 
-If none of the above arrangements fits your needs, please contact the organisers at abidev2026@abinit.org .
+If none of the above arrangements fits your needs, please contact the organisers at 
+<a href="mailto:abidev2026@abinit.org">abidev2026@abinit.org</a>.
 
 

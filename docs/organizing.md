@@ -15,3 +15,4 @@ description: 12th International ABINIT Developer Workshop <br> Sant Feliu de Gui
 - Matthieu Verstraete, ULiège, Belgium
 - Miquel Royo, ICMAB-CSIC, Spain
 
+Contact the organizing committee at <a href="mailto:abidev2026@abinit.org">abidev2026@abinit.org</a>.

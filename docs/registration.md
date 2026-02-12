@@ -31,9 +31,10 @@ The registration fee covers the participation to the event from Monday 8 June to
 
   * Three nights either in a single room, or in a shared double room (with another participant).
   * Full board from the Monday 8 June lunch (incl.) to the Thursday 11 June lunch (incl.), also including the coffee breaks.
+  * Fixed conference costs, like the rental of the conference room
 
 The registration fee for a shared double room is €500 per person, while the registration fee for a single room is €650 per person.
-It is also possible to register for lunches and coffee breaks only (local participants), from Monday 8 June to Thursday 11 June with registration fee being €250 per person.
+It is also possible to register for lunches and coffee breaks only (local participants), from Monday 8 June to Thursday 11 June with registration fee being €250 per person (this also includes the fixed conference costs).
 
 So, please pay the registration fee before March 22, 2026.
 

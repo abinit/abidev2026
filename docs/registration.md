@@ -17,7 +17,14 @@ This registration is needed, for both invited speakers and normal participants.
 For invited speakers, no payment is needed (so, no registration fee).
 
 For the other participants,
-the registration will be effective when you will have paid the registration fee (or if a global payment from your institution has been secured by direct contact with the organisers abidev2026@abinit.org).
+the registration will be effective when you will have paid the registration fee by bank transfer or if a global payment from your institution has been secured by direct contact with the organisers abidev2026@abinit.org).
+For the bank transfer :
+
+ * IBAN : BE52 3701 2883 7309
+ * BIC  : BBRUBEBB
+ * To : UNIVERSITE CATHOLIQUE DE LOUVAIN, PLACE DE L'UNIVERSITE 1, 1348 LOUVAIN-LA-NEUVE
+ * Communication : Name of the attendant
+
 The deadline for receiving the registration fee is March 22, 2026 (the hotel must know the number of booked rooms by March 31, 2026).
 
 The registration fee covers the participation to the event from Monday 8 June to Thursday 11 June for one person, including  

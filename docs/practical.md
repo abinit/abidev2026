@@ -10,7 +10,9 @@ description: 12th International ABINIT Developer Workshop <br> Sant Feliu de Gui
 # Location
 
 The workshop will take place at the very nice
-[Hotel Eden Roc, Sant Feliu de Guixols, Spain](https://www.edenrochotel.com/en/). [Map of Sant Feliu and hotel](https://maps.app.goo.gl/eF8sv1zthqdXXNrX9).
+[Hotel Eden Roc, Sant Feliu de Guixols, Spain](https://www.edenrochotel.com/en/).
+
+[Map of Sant Feliu and hotel](https://maps.app.goo.gl/eF8sv1zthqdXXNrX9).
 
 # How to reach the conference location ?
 

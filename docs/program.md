@@ -14,10 +14,10 @@ This is a very preliminary version of the program...
 
 ## Monday 8/6
 
-- 9:00 - 11:00 Volunteering, organization of hackathons and discussion sessions
-- 11:00-11:30 Welcome
-- 11:30-13:00 Ground state, xc functionals, High-temperature DFT
-- LUNCH
+- 9:00 -11:00 Volunteering, organization of hackathons and discussion sessions
+- 12:00-12:30 Welcome
+- 12:30 LUNCH
+- 13:30-14:30 Ground state, xc functionals, High-temperature DFT
 - 14:30-16:00 High-throughput and machine learning
 - 16:30-18:00 Second principles (Multibinit, TDEP, others)
 - 18:00-20:00 Poster session
@@ -47,6 +47,6 @@ This is a very preliminary version of the program...
 - 9:00-10:30 Optimisation and algorithms
 - 11:00-13:00 Parallelisation, HPC, GPUs
 - LUNCH
-- 14:00-15:30 Closing discussion, wrap up and final remarks
-- 15:30-16:30 Advisory board meeting
+- 14:00-14:30 Closing discussion, wrap up and final remarks
+- 14:30-16:00 Advisory board meeting
 

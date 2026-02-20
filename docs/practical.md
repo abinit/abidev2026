@@ -23,7 +23,7 @@ You can find useful flights through the links above to flightconnections.com
 There are regular buses connecting both airports to Sant Feliu.
 From the bus station to the hotel it's a 10 minutes walk . 
 
-More information (maps, links) to come ...
+More information about the bus (maps, links) to come ...
 
 # Other questions ?
 

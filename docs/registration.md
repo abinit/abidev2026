@@ -9,7 +9,7 @@ description: 12th International ABINIT Developer Workshop <br> Sant Feliu de Gui
 
 # Registration
 
-In order to register, please first fill the **Google form** (LINK TO BE GIVEN SOON), before March 10, 2026.
+In order to register, please first fill the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeVwoxEjRbPuM9BG-Mgftp4UbTc3VqDbJX-6KgQNQujWj5tlQ/viewform?usp=header), before March 10, 2026.
 This registration is needed, for both invited speakers and normal participants.
 
 While we would be glad to accept all interested people, there are guaranteed hotel rooms only for 50 people. 

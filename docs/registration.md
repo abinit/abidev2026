@@ -21,7 +21,7 @@ For invited speakers, no payment is needed (so, no registration fee).
 
 For the other participants, wait for the green light from the organizers. This green light (by mail) is expected no later than March 13, 2026.
 Then, the registration will be effective when you will have paid the registration fee by bank transfer, or if a global payment from your institution has been secured by direct contact with the organisers,
-<a href="mailto:abidev2026@abinit.org">abidev2026@abinit.org</a>.
+<a href="mailto:abidev2026@abinit.org">abidev2026@abinit.org</a>. Also, if an invoice is needed, please contact us <a href="mailto:abidev2026@abinit.org">abidev2026@abinit.org</a> before March 10, 2026.
 
 For the bank transfer :
 

@@ -19,7 +19,7 @@ In case we have more than 50 tentative participants and the hotel cannot host al
 
 For invited speakers, no payment is needed (so, no registration fee).
 
-For the other participants, wait for the green light from the organizers. This green light (by mail) is expected no later than March 13, 2026.
+For the other participants, wait for the green light from the organizers. This green light (by mail) is expected no later than March 20, 2026.
 Then, the registration will be effective when you will have paid the registration fee by bank transfer, or if a global payment from your institution has been secured by direct contact with the organisers,
 <a href="mailto:abidev2026@abinit.org">abidev2026@abinit.org</a>. Also, if an invoice is needed, please contact us <a href="mailto:abidev2026@abinit.org">abidev2026@abinit.org</a> before March 10, 2026.
 
@@ -30,7 +30,7 @@ For the bank transfer :
  * To : UNIVERSITE CATHOLIQUE DE LOUVAIN, PLACE DE L'UNIVERSITE 1, 1348 LOUVAIN-LA-NEUVE
  * Communication : ABIDEV2026 Fee + mention the name of the attendant
 
-The deadline for receiving the registration fee is March 24, 2026 (the hotel must know the number of booked rooms by March 31, 2026).
+The deadline for receiving the registration fee is March 31, 2026.
 
 The registration fee covers the participation to the event from Monday 8 June to Thursday 11 June for one person, including  
 

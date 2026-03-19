@@ -31,16 +31,16 @@ The deadline for receiving the registration fee is March 31, 2026.
 
 The registration fee covers the participation to the event from Monday 8 June to Thursday 11 June for one person, including  
 
-  * Three nights either in a single room, or in a shared double room (with another participant).
+  * Three nights either in a room for single use, or in a shared double room (with another participant).
   * Full board from the Monday 8 June lunch (incl.) to the Thursday 11 June lunch (incl.), also including the coffee breaks.
   * Fixed conference costs, like the rental of the conference room.
 
-The registration fee for a shared double room is €450 per person, while the registration fee for a single room €600 per person.
+The registration fee for a room for single use is €600 per person, while the registration fee for shared double room is €450 per person.
 It is also possible to register for lunches, dinners and coffee breaks only (local participants), 
 from Monday 8 June to Thursday 11 June with registration fee being €200 per person (this also includes the fixed conference costs).
 
 In case you wish to arrive on Sunday 7 June or earlier, or leave on Friday 12 June or later, so, for additional nights, 
-please contact now the hotel at comercial3@bravahoteles.com
+please contact now the hotel at 
 <a href="mailto:comercial3@bravahoteles.com">comercial3@bravahoteles.com</a>.
 The cost of the additional nights (estimated €110 per person per night incl. breakfast for a non-shared room, half for a shared room) will have to be paid directly to the hotel. 
 The initial mail to Mrs Salas about this issue was needed to estimate the number of such additional night(s) and plan with the hotel, but you need to finalize with the hotel.

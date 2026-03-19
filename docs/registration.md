@@ -45,7 +45,7 @@ please contact now the hotel at comercial3@bravahoteles.com
 The cost of the additional nights (estimated €110 per person per night incl. breakfast for a non-shared room, half for a shared room) will have to be paid directly to the hotel. 
 The initial mail to Mrs Salas about this issue was needed to estimate the number of such additional night(s) and plan with the hotel, but you need to finalize with the hotel.
 If you do not contact the hotel, these additional nights will not be secured.
-Also, please contact the hotel if you have an accompanying person. They will upgrade the hotel room, and you will have to pay the difference.
+Also, please contact the hotel if you have an accompanying person. They will upgrade the hotel room, and you will have to pay the difference to the hotel.
 
 When you contact the hotel, please mention : (1) Your name ; (2) You are an ABINIT developer workshop 8-11 June participant;
 (3) The details of the extension and/or companion(s) ; (4) The type of room 

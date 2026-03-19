@@ -4,13 +4,13 @@ title: ABIDEV 2026
 tagline: ABIDEV 2026
 description: 12th International ABINIT Developer Workshop <br> Sant Feliu de Guixols, Catalonia, Spain, 8-11 June 2026
 ---
-[Home](index.md) | [Program](program.md) | [Registration](registration.md) | [Practical information](practical.md) | [Organizing committee](organizing.md)
+[Home](index.md) | [Program/Title/Abstract](program.md) | [Registration](registration.md) | [Practical information](practical.md) | [Organizing committee](organizing.md)
 <hr>
 
 # Registration
 
 The registration is closed (deadline was March 10), however the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeVwoxEjRbPuM9BG-Mgftp4UbTc3VqDbJX-6KgQNQujWj5tlQ/viewform?usp=header)
-that you have filled is still active and can be used to provide more intormation (e.g. title of talk, abstract, and arrival/departure at the hotel, possibly with the Barcelona shuttle).
+that you have filled is still active and can be used to provide more information (e.g. title of talk, abstract, and arrival/departure at the hotel, possibly with the Barcelona shuttle).
 
 # Payment
 

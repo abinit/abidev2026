@@ -18,10 +18,12 @@ The workshop will take place at the very nice
 
 The closest airports are [Barcelona](https://www.flightconnections.com/flights-from-barcelona-bcn) (116kms, 1h22 by car, 2h by bus) 
 and [Girona](https://www.flightconnections.com/flights-from-barcelona-girona-gro) (30kms, 30 min by car, 45 min by bus) ones.
-You can find useful flights through the links above to flightconnections.com
+You can find useful flights through the links above to [flightconnections.com](https://www.flightconnections.com).
 
 There are regular buses connecting both airports to Sant Feliu.
 From the bus station to the hotel it's a 10 minutes walk . 
+
+We will organize a shuttle from/to Barcelona airport, with intended departure from Barcelona airport on Monday 8 June at 11:00, and from the hotel on Thursday 11 June at 14:30.
 
 More information about the bus (maps, links) to come ...
 

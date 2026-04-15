@@ -10,7 +10,7 @@ description: 12th International ABINIT Developer Workshop <br> Sant Feliu de Gui
 # Title/abstract
 
 The [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeVwoxEjRbPuM9BG-Mgftp4UbTc3VqDbJX-6KgQNQujWj5tlQ/viewform?usp=header)
-that you have filled for your registration is still active and can be used to provide more information (e.g. title of talk, abstract, and arrival/departure at the hotel, possibly with the Barcelona shuttle).
+that you have filled for your registration is still active and can be used to provide more information (e.g. title of talk, abstract, oral/poster ...).
 
 # Program
 
@@ -23,8 +23,8 @@ This is a very preliminary version of the program...
 - 12:00-12:30 Welcome
 - 12:30 LUNCH
 - 13:30-14:30 Ground state, xc functionals, High-temperature DFT
-- 14:30-16:00 High-throughput and machine learning
-- 16:30-18:00 Second principles (Multibinit, TDEP, others)
+- 14:30-15:50 High-throughput and machine learning
+- 16:30-17:50 Second principles (Multibinit, TDEP, others)
 - 18:00-20:00 Poster session
 - DINNER
 
@@ -50,8 +50,8 @@ This is a very preliminary version of the program...
 ## Thursday 11/6
 
 - 9:00-10:30 Optimisation and algorithms
-- 11:00-13:00 Parallelisation, HPC, GPUs
+- 11:00-12:50 Parallelisation, HPC, GPUs
+- 12:50-13:00 Closing discussion, wrap up and final remarks
 - LUNCH
-- 14:00-14:30 Closing discussion, wrap up and final remarks
-- 14:30-16:00 Advisory board meeting
+- 14:15-15:30 Advisory board meeting
 

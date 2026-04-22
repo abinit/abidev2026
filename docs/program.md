@@ -53,5 +53,5 @@ This is a very preliminary version of the program...
 - 11:00-12:50 Parallelisation, HPC, GPUs
 - 12:50-13:00 Closing discussion, wrap up and final remarks
 - LUNCH
-- 14:15-15:30(?) Advisory board meeting
+- 14:15-15:30 Advisory board meeting
 

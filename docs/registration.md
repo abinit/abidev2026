@@ -9,8 +9,8 @@ description: 12th International ABINIT Developer Workshop <br> Sant Feliu de Gui
 
 # Registration
 
-The registration is closed (deadline was March 10), however the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeVwoxEjRbPuM9BG-Mgftp4UbTc3VqDbJX-6KgQNQujWj5tlQ/viewform?usp=header)
-that you have filled is still active and can be used to provide more information (e.g. title of talk, abstract, and arrival/departure at the hotel, possibly with the Barcelona shuttle).
+The registration is closed (deadline was March 10). The [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeVwoxEjRbPuM9BG-Mgftp4UbTc3VqDbJX-6KgQNQujWj5tlQ/viewform?usp=header)
+that you have filled is not active anymore, and cannot be used to provide more information.
 
 # Payment
 

@@ -14,7 +14,7 @@ that you have filled for your registration has been closed. It will still be pos
 
 # Tentative Program
 
-Session titles and schedule might still be modified ! Titles of oral presentations are not yet provided, but will be soon. Every oral presentation is followed by some time for discussion, at least 5 minutes.
+Session titles and schedule might still be modified ! Titles of oral presentations are not yet provided, but will be soon. Every oral presentation is followed by some time for discussion, at least 5 minutes. Invited talks are 25 minute + 5 minute discussion, while other contributed talks are 15 minute + 5 minute discussion.
 
 ## Monday 8/6
 

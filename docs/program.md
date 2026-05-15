@@ -7,51 +7,139 @@ description: 12th International ABINIT Developer Workshop <br> Sant Feliu de Gui
 [Home](index.md) | [Program/Title/Abstract](program.md) | [Registration](registration.md) | [Practical information](practical.md) | [Organizing committee](organizing.md)
 <hr>
 
-# Title/abstract
+# Titles/abstracts
 
 The [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeVwoxEjRbPuM9BG-Mgftp4UbTc3VqDbJX-6KgQNQujWj5tlQ/viewform?usp=header)
-that you have filled for your registration is still active and can be used to provide more information (e.g. title of talk, abstract, oral/poster ...).
+that you have filled for your registration has been closed. It will still be possible to complete the information (e.g. provide abstract, title of additional posters) in another Google form, to be set up.
 
-# Program
+# Tentative Program
 
-This is a very preliminary version of the program...
-
+Session titles and schedule might still be modified ! Titles of oral presentations are not yet provided, but will be soon. Every oral presentation is followed by some time for discussion, at least 5 minutes.
 
 ## Monday 8/6
 
-- 9:00 -11:00 Volunteering, organization of hackathons and discussion sessions
-- 12:00-12:30 Welcome
-- 12:30 LUNCH
-- 13:30-14:30 Ground state, xc functionals, High-temperature DFT
-- 14:30-15:50 High-throughput and machine learning
-- 16:30-17:50 Second principles (Multibinit, TDEP, others)
-- 18:00-20:00 Poster session
-- DINNER
+- 9:00 -13:00 Volunteering, organization of hackathons and discussion sessions
+- 11:00 Shuttle leaving from BCN airport to Hotel
+
+13:00 LUNCH
+
+### Scientific appetizers 
+
+- 14:30-14:45 Xavier Gonze
+- 14:50-15:05 Augustin Blanchet
+- 15:10-15:25 Samuel Ponce
+- 15:30-15:45 Lorien McEnulty
+
+15:50 COFFEE BREAK
+
+### Optimisation, algorithms and HPC 
+
+- 16:20-16:45 Alberto García (invited)
+- 16:50-17:05 Lucas Baguet
+- 17:10-17:25 Marc Torrent
+- 17:30-17:45 Clementine Barat
+
+17:50-19:30 Poster session
+
+19:30 DINNER
 
 
 ## Tuesday 9/6
 
-- 9:00-10:30 Hackathon 1 
-- 11:00-13:00 Spatial dispersion properties and DFPT 
-- LUNCH
-- 14:30-16:00 Spin-phonon, magnetism, NMR
-- 16:30-18:00 Electron-phonon
-- DINNER
+9:00-10:30 Hackathon 1 
+
+10:30 COFFEE BREAK
+
+### Spin-phonon, magnetism
+
+- 11:00-11:25 Miquel Royo (invited)
+- 11:30-11:45 Rubén Garcia Llorente
+- 11:50-12:05 Samare Rostami
+- 12:10-12:25 Le Shu
+- 12:30-12:45 Josef Zwanziger
+
+
+13:00 LUNCH
+
+### Spatial dispersion properties and DFPT  
+
+- 14:00-14:25 Ivo Souza (invited)
+- 14:30-14:45 Chiara Fiorazzo
+- 14:50-15:05 Asier Zabalo
+- 15:10-15:35 Gustau Catalan (invited)
+
+15:40 COFFEE BREAK
+
+### Electron-phonon
+
+- 16:10-16:35 Matteo Calandra (invited)
+- 16:40-16:55 Vasili Vasilchenko
+- 17:00-17:15 Matteo Giantomassi
+- 17:20-17:35 Xu He
+- 17:40-17:55 Guillaume Allemand
+
+### ABILOGIX - Forum
+
+- 18:00-19:00 ABILOGIX presentation on gitlab migration: He Xu, Matteo Giantomassi  and Xavier Gonze. 
+- 19:00-19:15 Forum including renewal of moderators. 
+- 19:15-19:30 Election of a new developer representative to ABILOGIX. 
+
+19:30 DINNER
+
 
 ## Wednesday 10/6
 
-- 9:00-10:30 Hackathon 2
-- 11:00-13:00 Group discussions
-- LUNCH
-- 14:30-16:00 Excited states beyond DFT (GW/BSE) 
-- 16:30-18:00 Strong correlations (DMFT, CC4S, TDDFT)
-- DINNER
+9:00-10:30 Hackathon 2
+
+10:30 COFFEE BREAK
+
+11:00-13:00 Discussions about AI (for coding ; for documentation and input file generation). Some experience sharing from Matteo and He Xu (and others ?)
+
+13:00 LUNCH
+
+### High-throughput and code interfaces. 
+
+- 14:30-16:00 High-throughput and code interfaces. Chair: Alberto Garcia
+- 14:30-14:55 Claudia Draxl (invited)
+- 15:00-15:15 Guglielmo Marchese
+- 15:20-15:35 Aldo Romero 
+
+15:40 COFFEE BREAK
+
+### Strong correlations and time-dependence 
+
+- 16:10-16:35 Emilio Artacho (invited)
+- 16:40-16:55 Fabien Brieuc
+- 17:00-17:15 Frederic Gendron + Bernard Amadon
+- 17:20-17:35 Mauricio Rodriguez 
+- 17:40-17:55 Olivier Gingras
+
+18:00-19:30 Advisory board meeting (only for advisory board members)
+
+19:30 DINNER
 
 ## Thursday 11/6
 
-- 9:00-10:30 Optimisation and algorithms
-- 11:00-12:50 Parallelisation, HPC, GPUs
-- 12:50-13:00 Closing discussion, wrap up and final remarks
-- LUNCH
-- 14:15-15:30 Advisory board meeting
+### Second principles and TDEP
+
+- 9:00-9:15 Gabriel Antonius
+- 9:20-9:35 Fernando Gomez
+- 9:40-9:55 Louis Bastogne
+- 10:00-10:15 Romuald Béjaud
+
+10:20 COFFEE BREAK
+
+### Many Body Perturbation Theory
+- 10:50-11:05 James Boust
+- 11:10-11:25 Hsiao-Yi Tsai
+- 11:30-11:45 Christian Tantardini
+	
+
+11:50-12:30 Discussions. Then wrap up and final remarks
+
+
+12:30 LUNCH (Note the unusual time - other lunches are at 13:00)
+
+13:30 Shuttle leaving to Barcelona (Sants station around 15:45, airport around 16:15)
+
 

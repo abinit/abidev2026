@@ -99,7 +99,6 @@ Session titles and schedule might still be modified ! Titles of oral presentatio
 
 ### High-throughput and code interfaces. 
 
-- 14:30-16:00 High-throughput and code interfaces. 
 - 14:30-14:55 Claudia Draxl (invited)
 - 15:00-15:15 Guglielmo Marchese
 - 15:20-15:35 Aldo Romero 

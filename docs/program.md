@@ -27,7 +27,7 @@ Session titles and schedule might still be modified ! Titles of oral presentatio
 
 - 14:30-14:45 Xavier Gonze
 - 14:50-15:05 Augustin Blanchet
-- 15:10-15:25 Samuel Ponce
+- 15:10-15:25 Samuel Poncé
 - 15:30-15:45 Lorien McEnulty
 
 15:50 COFFEE BREAK

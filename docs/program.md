@@ -24,9 +24,10 @@ Session titles and schedule might still be modified ! Titles of oral presentatio
 
 13:00 LUNCH
 
-### Scientific appetizers 
+### Welcome and scientific appetizers 
 
-- 14:30-14:45 Xavier Gonze
+- 14:30-14:35 Max Stengel
+- 14:35-14:45 Xavier Gonze
 - 14:50-15:05 Augustin Blanchet
 - 15:10-15:25 Samuel Poncé
 - 15:30-15:45 Lorien McEnulty

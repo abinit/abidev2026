@@ -89,11 +89,13 @@ Session titles and schedule might still be modified ! Titles of oral presentatio
 
 ## Wednesday 10/6
 
-9:00-10:30 Hackathon 2
+9:00-10:30 Hackathon : AI "exercises" with ABINIT.
 
 10:30 COFFEE BREAK
 
-11:00-13:00 Discussions about AI (for coding ; for documentation and input file generation). Some experience sharing from Matteo and He Xu (and others ?)
+11:00-12:00 Feedback about AI (for coding ; for documentation and input file generation).
+
+12:00-13:00 Review previous hackathons + discuss new ones (also beautifications ?).
 
 13:00 LUNCH
 

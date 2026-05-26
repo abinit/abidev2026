@@ -18,7 +18,8 @@ Session titles and schedule might still be modified ! Titles of oral presentatio
 
 ## Monday 8/6
 
-- 9:00-13:00 TEST ! Volunteering, organization of hackathons and discussion sessions
+- 9:00-13:00 Self and/or collective initiation to AI for coding and documentation, for those who are already present in Sant Feliu. Also, preliminary discussions about AI. Possibly already start to work on ABINIT as exercise.
+
 - 11:00 Shuttle leaving from BCN airport to Hotel
 
 13:00 LUNCH

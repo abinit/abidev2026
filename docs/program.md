@@ -18,7 +18,7 @@ Session titles and schedule might still be modified ! Titles of oral presentatio
 
 ## Monday 8/6
 
-- 9:00 -13:00 TEST ! Volunteering, organization of hackathons and discussion sessions
+- 9:00-13:00 TEST ! Volunteering, organization of hackathons and discussion sessions
 - 11:00 Shuttle leaving from BCN airport to Hotel
 
 13:00 LUNCH
@@ -46,7 +46,7 @@ Session titles and schedule might still be modified ! Titles of oral presentatio
 
 ## Tuesday 9/6
 
-9:00-10:30 Hackathon 1 
+9:00-10:30 Discussions about AI (for coding ; for documentation and input file generation). Some experience sharing, by Matteo and He Xu (and others?).
 
 10:30 COFFEE BREAK
 

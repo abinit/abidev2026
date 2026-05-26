@@ -135,9 +135,9 @@ Session titles and schedule might still be modified ! Titles of oral presentatio
 - 11:10-11:25 Hsiao-Yi Tsai
 - 11:30-11:45 Christian Tantardini
 	
+11:50-12:20 Discussions (e.g. continued about AI or beautifications)
 
-11:50-12:30 Discussions. Then wrap up and final remarks
-
+12:20-12:30 Wrap up and final remarks
 
 12:30 LUNCH (Note the unusual time - other lunches are at 13:00)
 

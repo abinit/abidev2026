@@ -9,12 +9,14 @@ description: 12th International ABINIT Developer Workshop <br> Sant Feliu de Gui
 
 # Invited talks
 
+ <a id="Artacho"></a>
 ### Electron dynamics in solids - from electronic stopping to quantum kicks
 #### Emilio Artacho, Nanogune and University of Cambridge, Spain
 An overview will be presented on our work describing far-from-equilibrium processes in solids using real-time time-dependent density-functional theory. Motivated by radiation damage of matter, there is interest in the process of transfer of energy to the electrons in matter from the kinetic energy of a nuclear projectile shooting through it, a dissipative process of both fundamental and applied interest. Apart from showing first-principles results for the electronic stopping power (energy transfer rate) and their agreement with experiments, I will focus rather on technical aspects. In particular, our using atomic orbitals as basis sets (unlike Abinit), has prompted a differential geometry formalisation of the equations arising for the evolution and the Ehrenfest forces which could be useful in other contexts, possibly around Abinit as well. Finally I will describe the consequences of an exact relation for the excess energy acquired by a quantum system when suddenly starting a constant-velocity motion of the external potential (a kick). It also connects with the need to redefine pseudopotentials when they move and its consequences.
 <br><br>
 
 <hr>
+ <a id="Buonaura"></a>
 ### Theoretical Modeling of Ultrafast Phase Transitions from the Femtosecond to the Picosecond Scale 
 #### Matteo Calandra Buonaura, University of Trento, Italy
 In this talk, I will introduce a theoretical approach to ultrafast phase transitions that captures both electron/hole and phonon dynamics following laser pumping, on time scales ranging from a few femtoseconds to several picoseconds after irradiation.
@@ -31,27 +33,39 @@ This work is funded by the European Union (ERC, DELIGHT, 101052708).
 <br><br>
 
 <hr>
+ <a id="Catalan"></a>
 ### About flexoelectricity in conducting and/or polar materials preconceptions and few answers about flexoelectricity in conducting and/or polar materials
 #### Gustau Catalan, ICREA and ICN2, Catalonia
 Flexoelectricity is defined as the generation of polarization by strain gradients, and it is a universal property of materials. Though initially seen as a way to induce polarization in non-polar dielectrics such as SrTiO3, flexoelectricity has broadened its range to semiconductors and even metals, as well as materials that are already polar such as ferroelectrics. This new wave of flexoelectric research has seen flexoelectricity couple with already existing properties (e.g. photovoltage in semiconductors) or generate new ones (e.g. polarization vortices in metals). Some of these recent results challenge established preconceptions about the very meaning of some fundamental concepts, e.g. can one talk about polarization in a metal? How do we even quantify it? In my talk, I would like to discuss some of our work in this “new wave” of flexoelectric research (flexoelectric metals, flexphotovoltaic effects in semiconductors, second harmonic flexoelectricity in ferroelectrics), hoping to inspire some critical discussions. 
 <br><br>
 
 <hr>
+ <a id="Draxl"></a>
 ### Data quality assessment through benchmarking and machine learning
 #### Claudia Draxl, HU Berlin, Germany
 _No abstract_
 <br><br>
 
 <hr>
+ <a id="García"></a>
 ### Perspectives on Siesta development within the MaX project
 #### Alberto García, ICMAB-CSIC, Spain
 _No abstract_
 <br><br>
 
 <hr>
+ <a id="Royo"></a>
+### Linear response of magnets from constrained DFPT
+#### Miquel Royo, ICMAB-CSIC, Spain<br>Coauthor(s): Massimiliano Stengel
+Accurate calculation of the linear response of magnetic systems requires careful treatment of nonadiabatic spin-phonon coupling in time-reversal-broken environments. Existing approaches rely on semiclassical magnon descriptions, lacking a transparent connection to first-principles frameworks such as time-dependent DFT. Furthermore, time-dependent DFPT calculations for noncollinear spin systems are notoriously difficult to converge, as low-energy magnons severely worsen the condition number of the underlying linear problem.
+In this talk, I present a methodological framework recently implemented in ABINIT that addresses these challenges by parametrically constraining atomic magnetic moments to their unperturbed ground-state values during frequency-dependent linear-response calculations. Optimal convergence is achieved through a penalty-function approach, while the physically meaningful relaxed-spin response functions are recovered via straightforward linear-algebra operations derived from a Legendre transform formalism, as implemented in ANADDB. I will further demonstrate how this framework enables efficient first-principles calculation of material-specific spin-phonon coupling coefficients, and provides a natural foundation for studying coupled spin-phonon dynamics.
+<br><br>
+
+<hr>
+ <a id="Souza"></a>
 ### Optical spatial dispersion via Wannier interpolation
 #### Ivo Souza, Centro de Física de Materiales, Universidad del País Vasco, Spain<br>Coauthor(s): Andrea Urru, Óscar Pozo Ocaña, Stepan Tsikin, David Vanderbilt
-Wannier functions give an exact tight-binding representation of the
+Wannier functions give an "exact" tight-binding representation of the
 low-energy ab initio electronic structure, providing a fast and
 accurate k-space interpolation scheme.  In addition to band
 dispersions, Wannier interpolation has been successfully applied to
@@ -65,42 +79,49 @@ optical activity and directional dichroism.
 # Contributed talks
 
 <hr>
+ <a id="Allemand"></a>
 ### Magneto-thermoelectric transport
 #### Guillaume Allemand, University of Liège, Belgium
 _No abstract_
 <br><br>
 
 <hr>
+ <a id="Antonius"></a>
 ### Recent developments in aTDEP
 #### Gabriel Antonius, Université du Québec à Trois-Rivières, Canada
 _No abstract_
 <br><br>
 
 <hr>
-### Acceleration of Abinit ground state on CPU
+ <a id="Baguet"></a>
+### Acceleration of ABINIT ground state on CPU
 #### Lucas Baguet, CEA Bruyères-le-Châtel, Université Paris-Saclay, France
 _No abstract_
 <br><br>
 
 <hr>
-### Preconditioning Magnetic systems in Abinit
+ <a id="Barat"></a>
+### Preconditioning Magnetic systems in ABINIT
 #### Clémentine Barat, CEA Bruyères-le-Châtel, Université Paris-Saclay, France
 The convergence of the self-consistent field in Kohn-Sham DFT can significantly degraded by small eigenvalues in the dielectric matrix. These small eigenvalues often arise from magnetic phase transitions. We will present such convergence challenges in detail and introduce a new preconditioning scheme to address them. Our approach, implemented in Abinit, draws inspiration from the Stoner model and is based on a non-interacting susceptibility that neglects inter-orbital interactions.
 <br><br>
 
 <hr>
+ <a id="Bastogne"></a>
 ### Second-Principles Models in MULTIBINIT: Availability and Applications
 #### Louis Bastogne, University of Liège, Belgium
 _No abstract_
 <br><br>
 
 <hr>
+ <a id="Béjaud"></a>
 ### Machine Learning Assisted Sampling Package
 #### Romuald Béjaud, CEA Bruyères-le-Châtel, Université Paris-Saclay, France
 _No abstract_
 <br><br>
 
 <hr>
+ <a id="Blanchet"></a>
 ### Thermal exchange-correlation functionals support
 #### Augustin Blanchet, CEA Bruyères-le-Châtel, Université Paris-Saclay, France<br>Coauthor(s): Marc Torrent, Valentin V. Karasiev
 Although KS-Mermin-DFT has proven to be successful in handling the warm dense matter regime (identified for temperatures $T \approx E_\mathrm{F}/k_\mathrm{B}$), numerical and conceptual difficulties must be addressed when running simulations at such temperatures. Indeed, the Fermi-Dirac distribution forces us to consider many more bands than are initially needed at 0\,K, along with the frozen-core approximation, which must be adapted when core states begin to be thermally ionized. Additionally, the usual exchange-correlation functionals we use (PW, PBE, ...) do not depend explicitly on the electronic temperature. Cold functionals induce maximum errors in the WDM regime [1].
@@ -115,68 +136,86 @@ Abinit now fully supports thermal exchange-correlation functionals, with two new
 <br><br>
 
 <hr>
+ <a id="Boust"></a>
 ### Relaxed core PAW / Finite-temperature GWR
 #### James Boust, CEA Bruyères-le-Châtel, Université Paris-Saclay, 
 _No abstract_
 <br><br>
 
 <hr>
-### Adances regarding real-time TDDFT
+ <a id="Brieuc"></a>
+### Advances regarding real-time TDDFT
 #### Fabien Brieuc, CEA Bruyères-le-Châtel, Université Paris-Saclay, France
 _No abstract_
 <br><br>
 
 <hr>
-### DMFT in Abinit: Recent advances and applications
+ <a id="Fiorazzo"></a>
+### Vibrational natural optical activity in crystals
+#### Chiara Fiorazzo, ICMAB-CSIC, Spain
+_No abstract_
+<br><br>
+
+<hr>
+ <a id="Gendron"></a>
+### DMFT in ABINIT: Recent advances and applications
 #### Frédéric Gendron, CEA Bruyères-le-Châtel, Université Paris-Saclay, France<br>Coauthor(s): Bernard Amadon
 _No abstract_
 <br><br>
 
 <hr>
-### Title
+ <a id="Giantomassi"></a>
+### _No title_
 #### Matteo Giantomassi, UCLouvain, Belgium
 _No abstract_
 <br><br>
 
 <hr>
+ <a id="Gingras"></a>
 ### Strong correlations in ABINIT: Interface to triqs_modest (MODular Electronic STructure package)
 #### Olivier Gingras, Flatiron Institute, USA
 _No abstract_
 <br><br>
 
 <hr>
+ <a id="Ortiz"></a>
 ### Time-dependent and spatially inhomogeneous electric fields in Multibinit and perspectives for coupled lattice–electronic simulations
-#### Fernando Gómez-Ortiz, University of Liège, Belgium
+#### Fernando Gómez Ortiz, University of Liège, Belgium
 Recent developments in Multibinit have enabled the simulation of lattice dynamics under external electric fields that are both time-dependent and spatially inhomogeneous. This extension significantly broadens the range of physical phenomena that can be investigated within the effective Hamiltonian framework, including the response of ferroelectrics and polar materials to realistic field profiles such as pulses, gradients, or locally applied fields.
 In this work, I will present the recent implementation of these generalized electric fields in Multibinit, describing the theoretical formulation, the numerical implementation, and illustrative test cases demonstrating the new capabilities.
 In addition, I will discuss ongoing and future developments aimed at coupling the lattice degrees of freedom described in Multibinit with the electronic degrees of freedom treated within the Scale-Up electronic framework. This integration is expected to enable simulations where electronic and lattice dynamics are treated consistently, opening the door to electron-phonon physics: excitons, polarons, transport properties, domain wall conductivity...
 <br><br>
 
 <hr>
+ <a id="Gonze"></a>
 ### ABINIT project overview and introduction to the workshop
 #### Xavier Gonze, UCLouvain, Belgium
 I will present an overview of the ABINIT project, including the historical context and evolution, the recently developed capabilities, indicators (bibliometry, files, tests...), description the ABINIT ecosystem, the foreseen evolutions ... Then I will introduce the program of the workshop.
 <br><br>
 
 <hr>
-### Spin Lattice coupling by downfolding electron-phonon coupling  / Implementation of DFT+U with norm conserving pseudopotentials in ABINIT/ Integrating ABINIT with python ecosystem/ And I can also give some technical information about the migration of the gitlab to ULiege
+ <a id="He"></a>
+### Spin Lattice coupling by downfolding electron-phonon coupling  / Implementation of DFT+U with norm conserving pseudopotentials in ABINIT
 #### Xu He, University of Liège, Belgium
 _No abstract_
 <br><br>
 
 <hr>
+ <a id="Llorente"></a>
 ### Magnon-phonon dynamics in the van der Waals magnet CrSBr from first principles
 #### Rubén García Llorente, ICMAB-CSIC, Spain
 _No abstract_
 <br><br>
 
 <hr>
+ <a id="MacEnulty"></a>
 ### The PseudoDojo web interface: Enhanced accessibility and renovated pseudopotential testing visualization
 #### Lórien MacEnulty, UCLouvain, Belgium
 The emergence of more precise pseudopotential performance evaluation metrics and their application to the lanthanide series presented Abinit developers with an opportunity to reevaluate the suitability of the PseudoDojo web facilities. We conduct a brief but thorough accessibility and functionality analysis that considers current PseudoDojo usership needs and evaluates compliance with Web Content Accessibility Guidelines (WCAG) 2.2. This analysis revealed the need for moderate extensions of the current user experience (UX), including enhanced compliance with WCAG 2.2, a renovated landing page that aligns with user navigation intuition, and more sophisticated visualization tools for pseudopotential validation testing. On the developers' side, we build a streamlined deployment algorithm designed to render, upon the occasional release of a new pseudopotential table, the PseudoDojo website as a highly automated, static snapshot of the GitHub. Ultimately, we provide suggestions under the guise of cultivating a UX that enriches the PseudoDojo ethos by emphasizing its aptitude as a space for users of all belt ranks to train on and interact with pseudopotentials, not simply the space for training and testing the pseudopotentials themselves.
 <br><br>
 
 <hr>
+ <a id="Marchese"></a>
 ### EPIq - A Wannier interpolator willing to interface with ABINIT
 #### Guglielmo Marchese, ICMAB-CSIC, Spain
 In the last years I have been helping the devoloping of a new package that exploit Wannier interpolation for the accurate calculation of many material properties:
@@ -185,6 +224,7 @@ Beside extending its potentialities, we would like to enlarge the number of firs
 <br><br>
 
 <hr>
+ <a id="Poncé"></a>
 ### In search of the electron-phonon contribution to total energy
 #### Samuel Poncé, UCLouvain, Belgium<br>Coauthor(s): Xavier Gonze
 The total energy is a central quantity in condensed-matter physics, governing structural stability, phase transitions, and polymorphs.   
@@ -202,12 +242,14 @@ Although small, the electron-phonon contribution reaches several meV per atom, i
 <br><br>
 
 <hr>
+ <a id="Mayorga"></a>
 ### NOFT, an efficient approach for strongly-correlated systems
-#### Mauricio Rodríguez-Mayorga, Université de Toulouse, France
+#### Mauricio Rodríguez Mayorga, Université de Toulouse, France
 In this contribution, we introduce Natural Orbital Functional Theory (NOFT) and summarize the most recent advances in the field. We will discuss efficient implementations of the method, as well as its application to the computation of properties. Finally, we will present our interest in incorporating NOFT into the ABINIT electronic-structure package.
 <br><br>
 
 <hr>
+ <a id="Romero"></a>
 ### ABINIT-Agent: An Autonomous, Physics-Aware AI Agent for Adaptive Electronic Structure Workflows
 #### Aldo Humberto Romero, West Virginia University, USA
 The increasing complexity of first-principles simulations demands intelligent systems capable of orchestrating electronic structure workflows with minimal human intervention. While density functional theory (DFT) engines such as ABINIT provide robust and scalable implementations of plane-wave pseudopotential methods, the practical execution of high-throughput or exploratory studies still requires expert tuning of parameters, convergence strategies, and error recovery protocols. This bottleneck limits reproducibility, scalability, and accessibility.
@@ -220,19 +262,14 @@ We demonstrate that autonomous workflow steering significantly reduces manual in
 <br><br>
 
 <hr>
+ <a id="Rostami"></a>
 ### Combined magnetic and structural transition state in first-principles calculations
 #### Samare Rostami, UCLouvain, Belgium<br>Coauthor(s): Xavier Gonze
 We present a generalized nudged elastic band (NEB) implementation within density-functional theory (DFT) for calculating transition pathways that simultaneously involve atomic, lattice, and magnetic degrees of freedom. Based on a potential-based constrained DFT framework, this method consistently treats magnetic constraints, spin torques, atomic forces, and stresses together with structural variables. While conventional NEB approaches are typically restricted to atomic displacements, our formalism extends the configurational space to include lattice deformations and local magnetic moments, enabling a comprehensive description of coupled structural and magnetic transitions. The implementation supports both fixed-cell and variable-cell NEB approaches across collinear and noncollinear magnetic configurations. Magnetic degrees of freedom are optimized via torque-based dynamics of local moments, while lattice effects are incorporated through generalized cell coordinates derived from the stress tensor. This allows for the simultaneous optimization of atomic positions, cell vectors, and magnetic variables along the minimum-energy path using several implemented schemes, including steepest descent, local L-BFGS, and global BFGS algorithms. To validate the methodology, we present benchmark calculations for representative magneto-structural systems. Specifically, we investigate the bcc-to-hcp transformation in Fe and the ferromagnetic-to-antiferromagnetic transition in FeRh using the variable-cell formalism. Furthermore, we examine spin-reversal processes in two-dimensional $\text{CrI}_3$ to analyze the influence of spin-orbit coupling on transition paths and their associated energy barriers.
 <br><br>
 
 <hr>
-### Linear response of magnets from constrained DFPT
-#### Miquel Royo, ICMAB-CSIC, Spain<br>Coauthor(s): Massimiliano Stengel
-Accurate calculation of the linear response of magnetic systems requires careful treatment of nonadiabatic spin-phonon coupling in time-reversal-broken environments. Existing approaches rely on semiclassical magnon descriptions, lacking a transparent connection to first-principles frameworks such as time-dependent DFT. Furthermore, time-dependent DFPT calculations for noncollinear spin systems are notoriously difficult to converge, as low-energy magnons severely worsen the condition number of the underlying linear problem.
-In this talk, I present a methodological framework recently implemented in ABINIT that addresses these challenges by parametrically constraining atomic magnetic moments to their unperturbed ground-state values during frequency-dependent linear-response calculations. Optimal convergence is achieved through a penalty-function approach, while the physically meaningful relaxed-spin response functions are recovered via straightforward linear-algebra operations derived from a Legendre transform formalism, as implemented in ANADDB. I will further demonstrate how this framework enables efficient first-principles calculation of material-specific spin-phonon coupling coefficients, and provides a natural foundation for studying coupled spin-phonon dynamics.
-<br><br>
-
-<hr>
+ <a id="Shu"></a>
 ### Generalized Bloch Theorem for Spin Spirals in ABINIT
 #### Le Shu, UCLouvain, Belgium
 Spin spirals are a special case of noncollinear magnetism, where the magnetic moment direction rotates around an axis upon translation in a periodic solid. Spin spiral properties are intriguing. As a particularly exotic emergent property, a ferroelectric polarization can appear in such magnetic state, hence a magnetoelectric coupling is observed.
@@ -242,7 +279,8 @@ This work provides an efficient first-principles framework for investigating spi
 <br><br>
 
 <hr>
-### Frequency-free dynamical-screening Bethe--Salpeter equation
+ <a id="Tantardini"></a>
+### Frequency-free dynamical-screening Bethe-Salpeter equation
 #### Christian Tantardini, KFUPM, Saudi Arabia
 Dynamical screening can substantially renormalize exciton binding energies and oscillator
 strengths when characteristic screening modes are not well separated from excitonic energy scales, but retaining the frequency dependence of the screened interaction makes the Bethe--Salpeter equation (BSE) a nonlinear eigenproblem. We present a frequency-free
@@ -258,7 +296,8 @@ advantages for iterative eigensolvers targeting only a few low-lying excitons.
 <br><br>
 
 <hr>
-### Abinit on GPU + Spectrum slicing algorithm
+ <a id="Torrent"></a>
+### ABINIT on GPU + Spectrum slicing algorithm
 #### Marc Torrent, CEA Bruyères-le-Châtel, Université Paris-Saclay, France
 This presentation will be divided into two parts.
 
@@ -269,12 +308,14 @@ In the second part, I present the implementation of a spectrum slicing filtering
 <br><br>
 
 <hr>
+ <a id="Tsai"></a>
 ### Cubic scaling spinor GW in real space and imaginary time
 #### Hsiao-Yi Tsai, UCLouvain, Belgium
 _No abstract_
 <br><br>
 
 <hr>
+ <a id="Vasilchenko"></a>
 ### Variational approach to self-trapped polarons and hopping transport
 #### Vasilii Vasilchenko, UCLouvain, Belgium
 Polarons are quasiparticles formed in condensed matter when charge carriers couple to the phonons of a system. Present in a wide range of materials with moderate to strong electron–phonon coupling, polaronic effects are responsible for various physical phenomena. These include renormalization of electronic bands, effective mass enhancement, and self-trapping of charge carriers. In the latter process, the charge becomes localized in the potential created by the self-induced polarization. As a result, transport may change from a band-like to the polaron hopping regime, in which transfer occurs through transition events between localization sites.
@@ -283,6 +324,7 @@ In this talk, I will discuss how self-trapped polarons and hopping transport can
 <br><br>
 
 <hr>
+ <a id="Zabalo"></a>
 ### Natural optical activity with SOC at transparent frequencies
 #### Asier Zabalo, University of Liège, Belgium
 We extend the existing longwave DFPT formalism for natural optical activity 
@@ -302,66 +344,61 @@ and orbital terms.
 <br><br>
 
 <hr>
-### NMR Features of Abinit: Relativistic Terms, Spin Couplings, and Spatial Maps
+ <a id="Zwanziger"></a>
+### NMR Features of ABINIT: Relativistic Terms, Spin Couplings, and Spatial Maps
 #### Josef Zwanziger, Dalhousie University, Canada
 _No abstract_
 <br><br>
 
 
-# Posters
+# Posters <a id="Posters"></a>
 
 <hr>
-### Title
-#### Jean-Michel Beuken, UCLouvain, Belgium
-_No abstract_
-<br><br>
-
-<hr>
+ <a id="Bruneval"></a>
 ### Comparison of Plane-Wave and Gaussian Basis Sets for Correlated Wavefunction-based Methods in Solids
 #### Fabien Bruneval, CEA Saclay, Université Paris-Saclay, France
 _No abstract_
 <br><br>
 
 <hr>
+ <a id="Chen"></a>
 ### Electron-phonon coupling using GW perturbation theory for semiconductors and insulators
 #### Siyu Chen, UCLouvain, Belgium 
 Electron–phonon interactions induce renormalizations of quasiparticle energies in semiconductors and insulators, yet their consistent treatment at the GW level remains challenging. We present the implementation of GW perturbation theory within the ABINIT package to compute GW–level electron–phonon coupling matrix elements from the first–order variation of the GW self–energy with respect to phonon perturbations. The approach is built on Phys. Rev. Lett. 122, 186402 (2019) and combines Sternheimer with a Coulomb-hole static remainder to reduce the computational cost which enables direct calculations of zero–point renormalization at the GW level without resorting to Wannier interpolation. We apply the method to two prototypical wide-gap materials, diamond and GaP, and analyze the resulting zero–point renormalization, highlighting both the consistency achieved for GW–level couplings and the sensitivity of derived quantities to current approximations. 
 <br><br>
 
 <hr>
+ <a id="Fauser"></a>
 ### Excited electronic states calculation in the GW approximation coupled to the Projector Augmented-Wave approach
 #### Steffen Fauser, CEA Bruyères-le-Châtel, Université Paris-Saclay, France
 _No abstract_
 <br><br>
 
 <hr>
-### Vibrational natural optical activity in crystals
-#### Chiara Fiorazzo, ICMAB-CSIC, Spain
-_No abstract_
-<br><br>
-
-<hr>
+ <a id="Lebrun"></a>
 ### State of the Art: Electron-Nucleus coupling within 2 temperature model
 #### Harmonie Lebrun, CEA Saclay, Université Paris-Saclay, France
 _No abstract_
 <br><br>
 
 <hr>
+ <a id="Paradis"></a>
 ### Exploration of anharmonic phonons and their effects in metal hydrides
 #### Félix Paradis, Université du Québec à Trois-Rivières, Canada
 _No abstract_
 <br><br>
 
 <hr>
+ <a id="Priol"></a>
 ### Acceleration of electronic density calculation with machine learning
 #### Adrien Le Priol, CEA Bruyères-le-Châtel, Université Paris-Saclay, France
 _No abstract_
 <br><br>
 
 <hr>
+ <a id="Rostami"></a>
 ### Anisotropic temperature-dependent lattice parameters and elastic constants from ﬁrst principles
 #### Samare Rostami, UCLouvain, Belgium<br>Coauthor(s): Matteo Giantomassi , Xavier Gonze
 We present an efﬁcient implementation of the Zero Static Internal Stress Approximation (ZSISA) within the Quasi-Harmonic Approximation framework to compute anisotropic thermal expansion and elastic constants from ﬁrst principles. By replacing the costly multidimensional minimization with a gradient-based method that leverages second-order derivatives of the vibrational free energy, the number of required phonon band structure calculations is signiﬁcantly reduced: only six are needed for hexagonal, trigonal, and tetragonal systems, and 10–28 for lower-symmetry systems to determine the
 temperature dependence of lattice parameters and thermal expansion. This approach enables accurate modeling of anisotropic thermal expansion while substantially lowering computational cost compared to standard ZSISA method. The implementation is validated on a range of materials with symmetries from cubic to triclinic and is extended to compute temperature-dependent elastic constants with only a few additional phonon band structure calculations.
 <br><br>
-

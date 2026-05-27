@@ -14,16 +14,18 @@ Invited talks are 25 minutes + 5 minutes discussion, while other contributed tal
 
 ## Monday 8/6
 
-- 9:00 -13:00 Volunteering, organization of hackathons and discussion sessions
+- 9:00-13:00 Self and/or collective initiation to AI for coding and documentation, for those who are already present in Sant Feliu. Also, preliminary discussions about AI. Possibly already start to work on ABINIT as exercise.
+
 - 11:00 Shuttle leaving from BCN airport to Hotel
 
 13:00 LUNCH
 
-### Scientific appetizers 
+### Welcome and scientific appetizers 
 
-- 14:30-14:45 Xavier Gonze
+- 14:30-14:35 Max Stengel
+- 14:35-14:45 Xavier Gonze
 - 14:50-15:05 Augustin Blanchet
-- 15:10-15:25 Samuel Ponce
+- 15:10-15:25 Samuel Poncé
 - 15:30-15:45 Lorien McEnulty
 
 15:50 COFFEE BREAK
@@ -42,7 +44,7 @@ Invited talks are 25 minutes + 5 minutes discussion, while other contributed tal
 
 ## Tuesday 9/6
 
-9:00-10:30 Hackathon 1 
+9:00-10:30 Discussions about AI (for coding ; for documentation and input file generation). Some experience sharing, by Matteo and He Xu (and others?).
 
 10:30 COFFEE BREAK
 
@@ -85,17 +87,18 @@ Invited talks are 25 minutes + 5 minutes discussion, while other contributed tal
 
 ## Wednesday 10/6
 
-9:00-10:30 Hackathon 2
+9:00-10:30 Hackathon : AI "exercises" with ABINIT.
 
 10:30 COFFEE BREAK
 
-11:00-13:00 Discussions about AI (for coding ; for documentation and input file generation). Some experience sharing from Matteo and He Xu (and others ?)
+11:00-12:00 Feedback about AI (for coding ; for documentation and input file generation).
+
+12:00-13:00 Review previous hackathons + discuss new ones (also beautifications ?).
 
 13:00 LUNCH
 
 ### High-throughput and code interfaces. 
 
-- 14:30-16:00 High-throughput and code interfaces. 
 - 14:30-14:55 Claudia Draxl (invited)
 - 15:00-15:15 Guglielmo Marchese
 - 15:20-15:35 Aldo Romero 
@@ -130,9 +133,9 @@ Invited talks are 25 minutes + 5 minutes discussion, while other contributed tal
 - 11:10-11:25 Hsiao-Yi Tsai
 - 11:30-11:45 Christian Tantardini
 	
+11:50-12:20 Discussions (e.g. continued about AI or beautifications)
 
-11:50-12:30 Discussions. Then wrap up and final remarks
-
+12:20-12:30 Wrap up and final remarks
 
 12:30 LUNCH (Note the unusual time - other lunches are at 13:00)
 

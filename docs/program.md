@@ -4,17 +4,13 @@ title: ABIDEV 2026
 tagline: ABIDEV 2026
 description: 12th International ABINIT Developer Workshop <br> Sant Feliu de Guixols, Catalonia, Spain, 8-11 June 2026
 ---
-[Home](index.md) | [Program/Title/Abstract](program.md) | [Registration](registration.md) | [Practical information](practical.md) | [Organizing committee](organizing.md)
+[Home](index.md) | [Program](program.md) | [Abstracts](abstracts.md) | [Registration](registration.md) | [Practical information](practical.md) | [Organizing committee](organizing.md)
 <hr>
 
-# Titles/abstracts
+# Program
 
-The [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeVwoxEjRbPuM9BG-Mgftp4UbTc3VqDbJX-6KgQNQujWj5tlQ/viewform?usp=header)
-that you have filled for your registration has been closed. It will still be possible to complete the information (e.g. provide abstract, title of additional posters) in another Google form, to be set up.
-
-# Tentative Program
-
-Session titles and schedule might still be modified ! Titles of oral presentations are not yet provided, but will be soon. Every oral presentation is followed by some time for discussion, at least 5 minutes. Invited talks are 25 minute + 5 minute discussion, while other contributed talks are 15 minute + 5 minute discussion.
+_Every oral presentation is followed by some time for discussion, at least 5 minutes.  
+Invited talks are 25 minutes + 5 minutes discussion, while other contributed talks are 15 minutes + 5 minutes discussion._
 
 ## Monday 8/6
 

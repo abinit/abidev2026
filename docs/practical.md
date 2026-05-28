@@ -11,7 +11,7 @@ description: 12th International ABINIT Developer Workshop <br> Sant Feliu de Gui
 
 The workshop will take place at the very nice
 [Hotel Eden Roc, Sant Feliu de Guixols, Spain](https://www.edenrochotel.com/en/).
-On-line check-in details below.
+On-line check-in details.
 
 [Map of Sant Feliu and hotel](https://maps.app.goo.gl/eF8sv1zthqdXXNrX9).
 
@@ -33,6 +33,15 @@ More information about the bus (maps, links) to come ...
 Contact <a href="mailto:abidev2026@abinit.org">abidev2026@abinit.org</a>.
 
 # On-line check-in details
+
+To speed up the registration process upon your arrival at Hotel Eden Roc, the hotel kindly ask you to complete the online check-in in advance.
+This procedure must be done one time in case you have the standard 8-11 June stay, but also a second (possibly a third time) if you have additional nights (see below).
+
+Access the check-in portal: Click on the following [link](https://checkin.civitfun.com/hotel/hotel-eden-roc/bookingSearchForm).
+Enter the reservation details (to be used for the 8-11 June stay):
+
+   Booking ID / Locator: 131725        
+   Arrival Date: 08/06/2026
 
 ![](checkin/step1.png)
 

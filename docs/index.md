@@ -19,5 +19,5 @@ open perspectives, and discuss forefront technical/scientific issues.
 - [CEA](https://www.cea.fr/)  
 - [ICMAB-CSIC](https://icmab.es/)
 
-![](logo/psik.png)  ![](logo/logo_cea.png){: style="height:150px;width:200px"} ![](logo/icmab_so_csic_color.jpg){: style="height:150px;width:250px"} 
+![](logo/psik.png)  ![](logo/logo_cea.png){: style="height:150px;width:200px"} ![](logo/icmab_so_csic_color.jpg){: style="height:150px;width:325px"} 
 

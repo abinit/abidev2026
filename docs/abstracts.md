@@ -117,7 +117,7 @@ _No abstract_
  <a id="Béjaud"></a>
 ### Machine Learning Assisted Sampling Package
 #### Romuald Béjaud, CEA Bruyères-le-Châtel, Université Paris-Saclay, France
-_No abstract_
+Ab initio molecular dynamics (AIMD) simulation is a powerful tool to predict material properties at finite temperatures but is computationally expensive. To address this issue, we introduce the machine learning assisted canonical sampling (MLACS) method, which accelerates the sampling of the Born-Oppenheimer potential energy surface. Based on a self-consistent variational procedure, MLACS iteratively trains a machine learning interatomic potential (SNAP, MTP, ACE, or GrACE) and generates a canonical distribution of positions that mimics the AIMD distribution. By proving the reliability of the method on weak and strong anharmonic systems, for both solid and liquid, we show that MLACS reduces by several orders of magnitude the high computational cost of AIMD while maintaining an ab initio accuracy. Additionally, we reused the main idea of MLACS to apply it to other ab initio procedures, such as atomic relaxations, energy path calculations, grand canonical sampling, and path integral molecular dynamics.
 <br><br>
 
 <hr>
@@ -146,7 +146,7 @@ _No abstract_
  <a id="Brieuc"></a>
 ### Advances regarding real-time TDDFT
 #### Fabien Brieuc, CEA Bruyères-le-Châtel, Université Paris-Saclay, France
-_No abstract_
+This talk will present recent updates on the implementation of real-time TDDFT in Abinit. It will focus on the implementation of the method within the projector augmented wave (PAW) approach in the presence of a time-dependent external electric field.
 <br><br>
 
 <hr>
@@ -354,51 +354,82 @@ _No abstract_
 # Posters <a id="Posters"></a>
 
 <hr>
- <a id="Bruneval"></a>
+ <a id="Béjaud_poster"></a>
+### Invar effect in delta plutonium alloys
+#### Romuald Béjaud, CEA Bruyères-le-Châtel, Université Paris-Saclay, France
+Several long-debated dynamical and elastic anomalies of δ-Pu and its alloys (Pu-Al/Ga/In) have been captured within an unprecedented unified theoretical framework. This achievement is made possible by machine learning-accelerated ab initio simulations, which enable a detailed description of strong electronic correlations and explicit temperature effects.
+For pure δ-Pu, the present simulations—within this unified framework—successfully reproduce the experimental observations of negative thermal expansion, equilibrium volume, and anomalous softening of elastic properties. Our analysis demonstrates that the distinctive behavior of δ-Pu is almost entirely attributable to large anharmonic effects, which are linked to the extreme softening of the phonon spectrum.
+This simulation approach has recently been extended to Pu-Al/Ga/In alloys. The results reveal significant anharmonic effects upon the addition of δ-stabilizing elements and reproduce the well-known invar effect in δ-Pu alloys, where thermal expansion transitions from negative to positive as a function of Al/Ga/In content. These results are a step forward toward a better understanding of alloying effects in plutonium.
+<br><br>
+
+<hr>
+ <a id="Bruneval_poster"></a>
 ### Comparison of Plane-Wave and Gaussian Basis Sets for Correlated Wavefunction-based Methods in Solids
 #### Fabien Bruneval, CEA Saclay, Université Paris-Saclay, France
 _No abstract_
 <br><br>
 
 <hr>
- <a id="Chen"></a>
+ <a id="Chen_poster"></a>
 ### Electron-phonon coupling using GW perturbation theory for semiconductors and insulators
 #### Siyu Chen, UCLouvain, Belgium 
 Electron–phonon interactions induce renormalizations of quasiparticle energies in semiconductors and insulators, yet their consistent treatment at the GW level remains challenging. We present the implementation of GW perturbation theory within the ABINIT package to compute GW–level electron–phonon coupling matrix elements from the first–order variation of the GW self–energy with respect to phonon perturbations. The approach is built on Phys. Rev. Lett. 122, 186402 (2019) and combines Sternheimer with a Coulomb-hole static remainder to reduce the computational cost which enables direct calculations of zero–point renormalization at the GW level without resorting to Wannier interpolation. We apply the method to two prototypical wide-gap materials, diamond and GaP, and analyze the resulting zero–point renormalization, highlighting both the consistency achieved for GW–level couplings and the sensitivity of derived quantities to current approximations. 
 <br><br>
 
 <hr>
- <a id="Fauser"></a>
+ <a id="Fauser_poster"></a>
 ### Excited electronic states calculation in the GW approximation coupled to the Projector Augmented-Wave approach
 #### Steffen Fauser, CEA Bruyères-le-Châtel, Université Paris-Saclay, France
-_No abstract_
+The GW approximation describes the electronic self-energy through the product of the
+single-particle Green’s function (G) and the screened Coulomb interaction (W). It enables
+to compute quasiparticle correction to the DFT energies, in order to calculate accurate
+band structures and excitation properties.
+The Projector augmented-wave (PAW) approach [1] combines the efficiency of pseudopo-
+tentials with the accuracy of all-electron methods. It relates the pseudo wavefunction to
+the all-electron wavefunction through a linear transformation that restores the all-electron
+properties.
+The combination of the GW and PAW approaches is a conceptually and numerically
+challenging task. In the past, several attempts to this problem have been discussed [2,3,4].
+In this work, we reexamine this issue in great detail, in particular the different possible
+choices in the computation of the oscillator strength matrix elements, the treatment of the
+exchange self-energy, the completeness of the various basis sets involved, the limit in the
+sum over high energy bands in the correlation self-energy, the potential occurrence of cross
+terms between the plane wave and onsite basis sets, and the different implementations in
+the ABINIT and VASP electronic structure codes.
+
+1. P. Blochl, Phys. Rev. B 1994, 50 (24), 17953
+2. B. Arnaud, M. Alouani, Phys. Rev. B 2000, 62 (7), 4464
+3. M. Shishkin, G. Kresse, Phys. Rev. B 2006, 74 (3), 035101
+4. J. Klimes, M. Kaltak, G. Kresse, Phys. Rev. B 2014, 90 (7), 075125
 <br><br>
 
 <hr>
- <a id="Lebrun"></a>
+ <a id="Lebrun_poster"></a>
 ### State of the Art: Electron-Nucleus coupling within 2 temperature model
 #### Harmonie Lebrun, CEA Saclay, Université Paris-Saclay, France
 _No abstract_
 <br><br>
 
 <hr>
- <a id="Paradis"></a>
+ <a id="Paradis_poster"></a>
 ### Exploration of anharmonic phonons and their effects in metal hydrides
 #### Félix Paradis, Université du Québec à Trois-Rivières, Canada
 _No abstract_
 <br><br>
 
 <hr>
- <a id="Priol"></a>
+ <a id="Priol_poster"></a>
 ### Acceleration of electronic density calculation with machine learning
 #### Adrien Le Priol, CEA Bruyères-le-Châtel, Université Paris-Saclay, France
 _No abstract_
 <br><br>
 
 <hr>
- <a id="Rostami"></a>
+ <a id="Rostami_poster"></a>
 ### Anisotropic temperature-dependent lattice parameters and elastic constants from ﬁrst principles
 #### Samare Rostami, UCLouvain, Belgium<br>Coauthor(s): Matteo Giantomassi , Xavier Gonze
 We present an efﬁcient implementation of the Zero Static Internal Stress Approximation (ZSISA) within the Quasi-Harmonic Approximation framework to compute anisotropic thermal expansion and elastic constants from ﬁrst principles. By replacing the costly multidimensional minimization with a gradient-based method that leverages second-order derivatives of the vibrational free energy, the number of required phonon band structure calculations is signiﬁcantly reduced: only six are needed for hexagonal, trigonal, and tetragonal systems, and 10–28 for lower-symmetry systems to determine the
 temperature dependence of lattice parameters and thermal expansion. This approach enables accurate modeling of anisotropic thermal expansion while substantially lowering computational cost compared to standard ZSISA method. The implementation is validated on a range of materials with symmetries from cubic to triclinic and is extended to compute temperature-dependent elastic constants with only a few additional phonon band structure calculations.
 <br><br>
+
+

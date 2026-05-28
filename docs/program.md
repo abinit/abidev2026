@@ -39,15 +39,6 @@ _Every oral presentation is followed by some time for discussion, at least 5 min
 
 17:50-19:30 **Poster session** - ([List & abstracts](abstracts.md#Posters))
 
-<!--
-> - Fabien Bruneval<br>_Comparison of Plane-Wave and Gaussian Basis Sets for Correlated Wavefunction-based Methods in Solids_<br>
-  - Siyu Chen<br>_Electron-phonon coupling using GW perturbation theory for semiconductors and insulators_<br>
-  - Steffen Fauser<br>_Excited electronic states calculation in the GW approximation coupled to the Projector Augmented-Wave approach_<br>
-  - Harmonie Lebrun<br>_State of the Art: Electron-Nucleus coupling within 2 temperature model_<br>
-  - Félix Paradis<br>_Exploration of anharmonic phonons and their effects in metal hydrides_<br>
-  - Adrien Le Priol<br>_Acceleration of electronic density calculation with machine learning_<br>
-  - Samare Rostami<br>_Anisotropic temperature-dependent lattice parameters and elastic constants from ﬁrst principles_<br>
--->
 
 19:30 DINNER
 

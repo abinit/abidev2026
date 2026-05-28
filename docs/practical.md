@@ -76,4 +76,4 @@ Wait a few seconds until the confirmation message appears
 
 ![](checkin/step5.png)
 
-Redo this procedure as many time you need to check-in for the additional stay before the conference, the conference, and for the additional stay after the conference.
+Redo this procedure as many time you need to check-in for the additional stay before the conference, for the conference, and for the additional stay after the conference.

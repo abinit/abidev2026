@@ -24,7 +24,9 @@ You can find useful flights through the links above to [flightconnections.com](h
 There are regular buses connecting both airports to Sant Feliu.
 From the bus station to the hotel it's a 10 minutes walk . 
 
-We will organize a shuttle from/to Barcelona airport, with intended departure from Barcelona airport on Monday 8 June at 11:00, and from the hotel on Thursday 11 June at 14:30.
+A shuttle is organized from/to Barcelona, with intended departure from Barcelona airport 
+on Monday 8 June at 11:00, and from the hotel on Thursday 11 June at 13:30
+to the train station and the airport (see the [Program](program.md).
 
 More information about the bus (maps, links) to come ...
 

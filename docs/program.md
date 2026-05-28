@@ -72,8 +72,8 @@ _Every oral presentation is followed by some time for discussion, at least 5 min
 ### Spatial dispersion properties and DFPT  
 
 - 14:00-14:25 Ivo Souza (**invited**) - _Optical spatial dispersion via Wannier interpolation_ ([abstract](abstracts.md#Souza))
-- 14:30-14:45 Chiara Fiorazzo - _Vibrational natural optical activity in crystals_ ([abstract](abstracts.md#Fiorazzo))
-- 14:50-15:05 Asier Zabalo - _Natural optical activity with SOC at transparent frequencies_ ([abstract](abstracts.md#Zabalo))
+- 14:30-14:45 Asier Zabalo - _Natural optical activity with SOC at transparent frequencies_ ([abstract](abstracts.md#Zabalo))
+- 14:50-15:05 Chiara Fiorazzo - _Vibrational natural optical activity in crystals_ ([abstract](abstracts.md#Fiorazzo))
 - 15:10-15:35 Gustau Catalan (**invited**) - _About flexoelectricity in conducting and/or polar materials preconceptions_ ([abstract](abstracts.md#Catalan))
 
 15:40 COFFEE BREAK

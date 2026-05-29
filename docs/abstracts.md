@@ -139,7 +139,13 @@ Abinit now fully supports thermal exchange-correlation functionals, with two new
  <a id="Boust"></a>
 ### Relaxed core PAW / Finite-temperature GWR
 #### James Boust, CEA Bruyères-le-Châtel, Université Paris-Saclay, 
-_No abstract_
+In this talk, I will discuss two unrelated topics.
+
+First, I will motivate the implementation of the core relaxation in PAW (RC-PAW) for matter in extreme conditions.
+I will benchmark the newly developped RC-PAW approach in Abinit and apply it on aluminium and molybdenum.
+
+Second, I will give an overview of the current status of the GW code in real-space (GWR) for the specific case of non-zero temperatures.
+I will focus on the implementation in Abinit of optimized imaginary time/frequency grids -- minimax and discrete Lehmann representation.
 <br><br>
 
 <hr>
@@ -405,9 +411,11 @@ the ABINIT and VASP electronic structure codes.
 
 <hr>
  <a id="Lebrun_poster"></a>
-### State of the Art: Electron-Nucleus coupling within 2 temperature model
-#### Harmonie Lebrun, CEA Saclay, Université Paris-Saclay, France
-_No abstract_
+### Electron-phonon coupling in the Two-Temperature Model
+#### Harmonie Lebrun, CEA Saclay, Université Paris-Saclay, France<br>Coauthor(s): James Boust, Fabien Brieuc, Marc Torrent
+Laser-matter interactions are a rising concern in pump-probe experiments involving short-pulsed lasers in the femtosecond range. When irradiated, the lattice system is untouched conversly to the electrons which absorb most of the energy. The Two-Temperature Model (TTM) often used in simulation describes the exchange of energy between electrons and the lattice with the help of a coupling factor.
+
+This poster will present the basis of the TTM and some hypothesis leading to its derivation. Limitation to this model are briefly discussed.
 <br><br>
 
 <hr>

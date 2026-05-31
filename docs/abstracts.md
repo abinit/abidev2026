@@ -94,9 +94,9 @@ _No abstract_
 
 <hr>
  <a id="Baguet"></a>
-### Acceleration of ABINIT ground state on CPU
+### Abinit ground-state performances on CPUs
 #### Lucas Baguet, CEA Bruyères-le-Châtel, Université Paris-Saclay, France
-_No abstract_
+Abinit offers numerous parameters to control the performance of ground state computations. Users must select from various algorithms, levels of parallelization, and parameters that influence convergence rates. Additionally, recent developments have enhanced the performance of ground state computations by introducing new implementations and algorithms. However, the current default parameters and automatic parallelization rules may now be outdated.
 <br><br>
 
 <hr>

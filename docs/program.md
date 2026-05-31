@@ -33,7 +33,7 @@ _Every oral presentation is followed by some time for discussion, at least 5 min
 ### Optimisation, algorithms and HPC 
 
 - 16:20-16:45 Alberto García (**invited**) - _Perspectives on Siesta development within the MaX project_ ([abstract](abstracts.md#García))
-- 16:50-17:05 Lucas Baguet - _Acceleration of ABINIT ground state on CPU_ ([abstract](abstracts.md#Baguet))
+- 16:50-17:05 Lucas Baguet - _Abinit ground-state performances on CPUs_ ([abstract](abstracts.md#Baguet))
 - 17:10-17:25 Marc Torrent - _ABINIT on GPU + Spectrum slicing algorithm_ ([abstract](abstracts.md#Torrent))
 - 17:30-17:45 Clementine Barat - _Preconditioning Magnetic systems in ABINIT_ ([abstract](abstracts.md#Barat))
 

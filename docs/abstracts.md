@@ -48,9 +48,11 @@ _No abstract_
 
 <hr>
  <a id="García"></a>
-### Perspectives on Siesta development within the MaX project
+### Perspectives on Siesta development within the MaX project and connections to Abinit
 #### Alberto García, ICMAB-CSIC, Spain
-_No abstract_
+Siesta is one of the flagship codes of the Materials at the eXascale (MaX) EU project, which aims at enabling the use of materials simulation tools in next-generation HPC systems. I will discuss  the main areas in which participation in MaX has been instrumental in the development of Siesta. Besides its work on MaX-specific codes, the project aims to transfer expertise and tools to the broader community, something Abinit is well-placed to benefit from.
+
+One of the core ideas of MaX, that code modularization and separation of concerns is the key to progress, goes back to the principles of the Electronic Structure Library, of which the Siesta and Abinit communities are founding partners and contributors. I will show how this collaboration continues and will call for fresh ideas to address the coming challenges.
 <br><br>
 
 <hr>

@@ -53,7 +53,7 @@ _Every oral presentation is followed by some time for discussion, at least 5 min
 
 - 11:00-11:25 Miquel Royo (**invited**) - _Linear response of magnets from constrained DFPT_ ([abstract](abstracts.md#Royo))
 - 11:30-11:45 Rubén Garcia Llorente - _Magnon-phonon dynamics in the vdW magnet CrSBr from first principles_ ([abstract](abstracts.md#Llorente))
-- 11:50-12:05 Samare Rostami - _Magnon-phonon dynamics in the van der Waals magnet CrSBr from first principles_ ([abstract](abstracts.md#Rostami))
+- 11:50-12:05 Samare Rostami - _Combined magnetic and structural transition state in first-principles calculations_ ([abstract](abstracts.md#Rostami))
 - 12:10-12:25 Le Shu - _Generalized Bloch Theorem for Spin Spirals_ ([abstract](abstracts.md#Shu))
 - 12:30-12:45 Josef Zwanziger - _NMR Features: Relativistic Terms, Spin Couplings, Spatial Maps_ ([abstract](abstracts.md#Zwanziger))
 

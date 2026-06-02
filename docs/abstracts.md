@@ -82,16 +82,19 @@ optical activity and directional dichroism.
 
 <hr>
  <a id="Allemand"></a>
-### Magneto-thermoelectric transport
+### Iterative solution of the Boltzmann Transport Equation for (magneto-) thermoelectric transport
 #### Guillaume Allemand, University of Liège, Belgium
-_No abstract_
+We want to study charge and heat transport from first-principles in topological Weyl semimetals such as TaAs. Electron-Phonon Coupling (EPC) matrix elements are calculated using the~\textsc{ABINIT} software suite, performing Density Functional Perturbation Theory (DFPT), and used to derive the thermo-electric transport coefficients,  including the electrical conductivity ($\sigma$), Seebeck coefficient ($S$), electronic thermal conductivity (${\kappa}^{el}$).
+We compare the Self-Energy and Momentum Relaxation Time Approximations (SERTA and MRTA) to the Iterative solution of the Boltzmann Transport Equation (IBTE).
+For the iterative method, there was a lack of software treating the thermal part of the BTE. Consequently, we derived and implemented in Abinit an additional equation, which is needed to fully solve for transport under both thermal and electrical potential gradients.
+Moreover, we are currently trying to implement the BTE considering also a magnetic field, leading to the apparition of Hall and Nernst effects. Unfortunately, the implementation is not trivial, since the addition of a magnetic field breaks symmetries, such as time-reversal symmetry and some spatial symmetries.
 <br><br>
 
 <hr>
  <a id="Antonius"></a>
 ### Recent developments in aTDEP
 #### Gabriel Antonius, Université du Québec à Trois-Rivières, Canada
-_No abstract_
+I will present recent development in the aTDEP utility for the computation of anharmonic phonons. Modernization of the CLI interface and and input file format. Interface with Abinit and Anaddb through DDB files. Integration to the Abipy environment.
 <br><br>
 
 <hr>
@@ -431,7 +434,9 @@ _No abstract_
  <a id="Priol_poster"></a>
 ### Acceleration of electronic density calculation with machine learning
 #### Adrien Le Priol, CEA Bruyères-le-Châtel, Université Paris-Saclay, France
-_No abstract_
+Accelerating DFT calculations is a major challenge for simulating large atomic systems. While recent machine learning models accurately predict electron density, their massive computational cost during inference often negates the time saved by using a good density guess to initiate SCF cycles. Dimensionality reduction is therefore crucial to compress the density representation (in real or reciprocal space).
+
+This poster presents the roadmap of my PhD project, focusing on a machine learning strategy for density prediction based on atomic positions.
 <br><br>
 
 <hr>
@@ -441,5 +446,4 @@ _No abstract_
 We present an efﬁcient implementation of the Zero Static Internal Stress Approximation (ZSISA) within the Quasi-Harmonic Approximation framework to compute anisotropic thermal expansion and elastic constants from ﬁrst principles. By replacing the costly multidimensional minimization with a gradient-based method that leverages second-order derivatives of the vibrational free energy, the number of required phonon band structure calculations is signiﬁcantly reduced: only six are needed for hexagonal, trigonal, and tetragonal systems, and 10–28 for lower-symmetry systems to determine the
 temperature dependence of lattice parameters and thermal expansion. This approach enables accurate modeling of anisotropic thermal expansion while substantially lowering computational cost compared to standard ZSISA method. The implementation is validated on a range of materials with symmetries from cubic to triclinic and is extended to compute temperature-dependent elastic constants with only a few additional phonon band structure calculations.
 <br><br>
-
 

@@ -130,8 +130,8 @@ _Every oral presentation is followed by some time for discussion, at least 5 min
 10:20 COFFEE BREAK
 
 ### Many Body Perturbation Theory
-- 10:50-11:05 James Boust - _Relaxed core PAW / Finite-temperature GWR_ ([abstract](abstracts.md#Boust))
-- 11:10-11:25 Hsiao-Yi Tsai - _Cubic scaling spinor GW in real space and imaginary time_ ([abstract](abstracts.md#Tsai))
+- 10:50-11:05 Hsiao-Yi Tsai - _Cubic scaling spinor GW in real space and imaginary time_ ([abstract](abstracts.md#Tsai))
+- 11:10-11:25 James Boust - _Relaxed core PAW / Finite-temperature GWR_ ([abstract](abstracts.md#Boust))
 - 11:30-11:45 Christian Tantardini - _Frequency-free dynamical-screening BSE_ ([abstract](abstracts.md#Tantardini))
 	
 11:50-12:20 Discussions (e.g. continued about AI or beautifications)

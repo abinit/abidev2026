@@ -73,8 +73,8 @@ _Every oral presentation is followed by some time for discussion, at least 5 min
 
 - 16:10-16:35 Matteo Calandra (**invited**) - _Ultrafast Phase Transitions from the Femtosecond to the Picosecond Scale_ ([abstract](abstracts.md#Buonaura))
 - 16:40-16:55 Vasili Vasilchenko - _Variational approach to self-trapped polarons and hopping transport_ ([abstract](abstracts.md#Vasilchenko))
-- 17:00-17:15 Matteo Giantomassi - _To be defined_ ([abstract](abstracts.md#Giantomassi))
-- 17:20-17:35 Xu He - _To be defined_ ([abstract](abstracts.md#He))
+- 17:00-17:15 Matteo Giantomassi - _Electron-phonon coupling using GW perturbation theory_ ([abstract](abstracts.md#Giantomassi))
+- 17:20-17:35 He Xu - _To be defined_ ([abstract](abstracts.md#He))
 - 17:40-17:55 Guillaume Allemand - _Boltzmann Transport Equation for (magneto-) thermoelectric transport_ ([abstract](abstracts.md#Allemand))
 
 ### ABILOGIX - Forum

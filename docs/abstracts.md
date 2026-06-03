@@ -43,7 +43,17 @@ Flexoelectricity is defined as the generation of polarization by strain gradient
  <a id="Draxl"></a>
 ### Data quality assessment through benchmarking and machine learning
 #### Claudia Draxl, HU Berlin, Germany
-_No abstract_
+Validation and verification of research data is becoming more in more important, in particular in view the reuse of data by machine learning and other artificial-intelligence tools. For this purpose, also benchmark data are highly desirable for assessing the relevance of various parameters in scientific results. For the computational side, this concerns the impact of methodology, approximations, implementations, and computational details on the results. We are addressing this issue by creating various dedicated benchmark sets for groundstate calculations within density-functional theory and spectroscopy calculations within many-body perturbation theory. These calculations are predominantly, but not exclusively, with electronic-structure package exciting [1,2]. Being an all-electron full-potential code with proven microHartree precision [3], exciting is able to deliver such data. To quantitatively measure data quality, we have developed various machine-learning techniques [4,5] and have defined metrics also for spectroscopic quantities [6,7]. 
+
+In this talk, I will give an overview of our benchmarking studies and efforts towards error quantification. I will also discuss how other codes – like Abinit – could contribute to and benefit from this effort.
+
+[1] A. Gulans, S. Kontur, C. Meisenbichler, D. Nabok, P. Pavone, S. Rigamonti, S. Sagmeister, U. Werner, and C. Draxl, J. Phys.: Condens. Matter (Topical Review) 26, 363202 (2014)
+[2] https://arxiv.org/abs/2601.11388
+[3] A. Gulans, A. Kozhevnikov, and C. Draxl, Phys. Rev. B 97, 161105(R) (2018).
+[4] T. Bechtel, D. Speckhard, J. Godwin, and C. Draxl, Chem. Mater. 37, 1358 (2025).
+[5] D. Speckhard, C. Carbogno, S. Lubeck, L. Ghiringhelli, M. Scheffler, and C. Draxl, Phys. Rev. Materials 9, 013801 (2025).
+[6] M. Kuban, S. Rigamonti, M. Scheidgen, and C. Draxl, Sci. Data 9, 646 (2022).
+[7] M. Kuban, S. Gabaj, W. Aggoune, C. Vona, S. Rigamonti, and C. Draxl, MRS Bulletin Impact 47, 991 (2022).
 <br><br>
 
 <hr>
@@ -113,9 +123,12 @@ The convergence of the self-consistent field in Kohn-Sham DFT can significantly 
 
 <hr>
  <a id="Bastogne"></a>
-### Second-Principles Models in MULTIBINIT: Availability and Applications
-#### Louis Bastogne, University of Liège, Belgium
-_No abstract_
+### 2nd-Principles Models in MULTIBINIT: Availability and Applications
+#### Louis Bastogne, University of Liège, Belgium<br>Coauthor(s): Fernando Gomez, He Xu, Philippe Ghosez
+Second-principles lattice dynamics, as implemented in Multibinit, has become a powerful route to reach the large length and time scales needed to study finite-temperature properties of functional materials while retaining first-principles accuracy. The total energy is expanded around a reference structure combining all the lattice degrees of freedom. Building such effective models, however, has long required substantial expertise and manual effort.
+Here we present recent advances that make the construction of lattice models both automatic and reliable. While the harmonic part is obtained directly from first-principles calculations, the more demanding anharmonic part is now built through a fully automated workflow that handles the training, fitting, and stabilization of the model with minimal user input. The user only needs to specify a few high-level choices, such as how far interactions extend and how complex the model should be, and the procedure takes care of the rest.
+Each model is validated through a systematic validity passport: reproduction of the training and test sets, relaxation of metastable phases, and phonon dispersion curves of the (meta-)stable phases, ensuring transferability before release.
+Beyond automation, we emphasize availability: validated models are being released in an open, citable library (Dataverse) and exposed through Python and LAMMPS interfaces, so the community can directly reuse them. We illustrate their reach across applications: structural phase transitions under pressure and strain; finite-temperature functional properties; inhomogeneous textures such as domain walls and topological or multimodal states; and temperature-dependent phonon.
 <br><br>
 
 <hr>
@@ -163,8 +176,12 @@ This talk will present recent updates on the implementation of real-time TDDFT i
 <hr>
  <a id="Fiorazzo"></a>
 ### Vibrational natural optical activity in crystals
-#### Chiara Fiorazzo, ICMAB-CSIC, Spain
-_No abstract_
+#### Chiara Fiorazzo, ICMAB-CSIC, Spain<br>Coauthor(s): Asier Zabalo, Miquel Royo, Ivo Souza, Massimiliano Stengel
+We present a general first-principles framework for vibrational natural optical activity in periodic systems. Existing approaches within density-functional theory are well established for molecules, but cannot be directly extended to crystals because they are incompatible with translational invariance. Our formulation overcomes this limitation by expressing vibrational optical activity as a spatial-dispersion response property, naturally compatible with periodic boundary conditions.
+
+The formalism applies directly to crystalline systems, while recovering the established molecular limit. All required quantities are computed within the longwave driver of Abinit, enabling a straightforward implementation. The framework clarifies the role of periodicity in the electromagnetic response and provides an interpretation of vibrational optical activity in terms of finite-momentum absorption.
+
+We demonstrate the approach through first-principles calculations of the vibrational circular dichroism of the chiral molecular and crystalline systems D$_2$-oxirane and $\alpha$-quartz.
 <br><br>
 
 <hr>
@@ -176,9 +193,18 @@ _No abstract_
 
 <hr>
  <a id="Giantomassi"></a>
-### _No title_
+### Electron-phonon coupling using GW perturbation theory
 #### Matteo Giantomassi, UCLouvain, Belgium
-_No abstract_
+The interaction between electrons and phonons governs a wide range of fundamental material properties,  including electrical and thermal transport, superconductivity, and the temperature dependence of electronic band structures. 
+Traditionally, electron–phonon matrix elements are computed within Density Functional Perturbation Theory (DFPT), which relies on the first-order variation of the Kohn–Sham potential. 
+While highly successful, this framework is fundamentally limited by its independent-particle description and therefore neglects important many-body effects.
+
+In this talk, I will present our implementation of GW Perturbation Theory (GWPT), originally proposed by Z. Li and co-workers in 2019,  within the ABINIT software package. 
+By directly evaluating the first-order variation of the GW self-energy with respect to atomic displacements,  GWPT extends the DFPT formalism to include many-body corrections to electron–phonon interactions within a unit-cell framework.
+
+I will discuss both the theoretical foundations of the method and the computational infrastructure developed to address its substantial computational cost. 
+In particular, I will present the integration of GWPT with the gstore API, 
+which enables the efficient pre-computation, distributed MPI storage, and NetCDF-based storage of Kohn–Sham and GWPT matrix elements,  providing a practical route toward large-scale many-body electron–phonon calculations.
 <br><br>
 
 <hr>
@@ -207,7 +233,7 @@ I will present an overview of the ABINIT project, including the historical conte
 <hr>
  <a id="He"></a>
 ### Spin Lattice coupling by downfolding electron-phonon coupling  / Implementation of DFT+U with norm conserving pseudopotentials in ABINIT
-#### Xu He, University of Liège, Belgium
+#### He Xu, University of Liège, Belgium
 _No abstract_
 <br><br>
 
@@ -321,8 +347,8 @@ In the second part, I present the implementation of a spectrum slicing filtering
 <hr>
  <a id="Tsai"></a>
 ### Cubic scaling spinor GW in real space and imaginary time
-#### Hsiao-Yi Tsai, UCLouvain, Belgium
-_No abstract_
+#### Hsiao-Yi Tsai, UCLouvain, Belgium<br>Coauthor(s): Matteo Giantomassi, Xavier Gonze, Samuel Poncé
+Many-body perturbation theory, specifically the *GW* approximation, stands as the gold standard for predicting quasi-particle band structures, and band gaps of crystalline materials. However, its application to complex and extended systems is severely hindered by the quartic computational scaling with respect to the system size of conventional implementations. Furthermore, two theoretical challenges still persist: the strong starting-point dependence of the one-shot *GW* approach, and the necessity of fully incorporating non-collinear spin degrees of freedom within many-body perturbation theory. This is particularly important for materials such as perovskites, where spin–orbit coupling (SOC) is intrinsically strong. Even with SOC, Kohn–Sham band structures constitute a poor starting point, markedly underestimating experimental quasiparticle energies thus compromising the accuracy of perturbative approaches. To overcome these limitations, we present the theoretical formalism and implementation of an eigenvalue-only self-consistent (ev*GW*), cubic scaling *GW* method including SOC within the ABINIT code. This is accomplished by evaluating the irreducible polarizability and the *GW* self-energy in the real-space and imaginary-time domains. We study the convergence behavior, assess the numerical stability of the analytic continuation procedure, and present additional techniques to accelerate computation and reduce memory usage. The method is benchmarked against conventional quartic-scaling *GW* approaches for a diverse range of general semiconductors and complex metal-halide perovskites, including Si, GaAs, CsPbI$_3$. We demonstrate that our cubic scaling spinor ev*GW* framework exhibits excellent agreement with conventional methods while delivering a massive computational speedup. This progress opens up the door for the many-body study of larger systems such as defects, interfaces and heterostructures.
 <br><br>
 
 <hr>

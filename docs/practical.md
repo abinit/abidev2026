@@ -11,7 +11,7 @@ description: 12th International ABINIT Developer Workshop <br> Sant Feliu de Gui
 
 The workshop will take place at the very nice
 [Hotel Eden Roc, Sant Feliu de Guixols, Spain](https://www.edenrochotel.com/en/).
-On-line check-in details, see below. Check-in time (room available) 15:00, check-out time (room must be free) 12:00.
+**On-line check-in details, see below**. Check-in time (room available) 15:00, check-out time (room must be free) 12:00.
 
 [Map of Sant Feliu and hotel](https://maps.app.goo.gl/eF8sv1zthqdXXNrX9).
 
@@ -22,13 +22,16 @@ and [Girona](https://www.flightconnections.com/flights-from-barcelona-girona-gro
 You can find useful flights through the links above to [flightconnections.com](https://www.flightconnections.com).
 
 There are regular buses connecting both airports to Sant Feliu.
-From the bus station to the hotel it's a 10 minutes walk . 
+Going from the bus station to the hotel is a 10 minute walk . 
 
-A shuttle is organized from/to Barcelona, with intended departure from Barcelona airport 
-on Monday 8 June at 11:00, and from the hotel on Thursday 11 June at 13:30
-to the train station and the airport (see the [Program](program.md).
+A shuttle is organized from/to Barcelona, with intended departure from Barcelona airport to the hotel
+on Monday 8 June at 11:00, and on Thursday 11 June at 13:30 from the hotel 
+to the train station and the airport (see the [Program](program.md) ).
 
-More information about the bus (maps, links) to come ...
+A shuttle is organized from/to Girona airport, 
+with intended departure from Girona airport
+on Sunday 7 June at 20:30, and from the hotel on Friday 12 June at 8:30 
+to the airport (the latter is already full). 
 
 # Other questions ?
 

@@ -78,4 +78,6 @@ Wait a few seconds until the confirmation message appears
 
 ![](checkin/step5.png)
 
+Important note regarding payments: If a payment summary screen appears during the process, please select: "I do not want to make the payment at this time."
+
 Redo this procedure as many time you need to check-in for the additional stay before the conference, for the conference, and for the additional stay after the conference.

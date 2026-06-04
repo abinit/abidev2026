@@ -123,8 +123,8 @@ _Every oral presentation is followed by some time for discussion, at least 5 min
 ### Second principles and TDEP
 
 - 9:00-9:15 Gabriel Antonius - _Recent developments in aTDEP_ ([abstract](abstracts.md#Antonius))
-- 9:20-9:35 Fernando Gomez - _Time-dependent and spatially inhomogeneous electric fields in MULTIBINIT_ ([abstract](abstracts.md#Ortiz))
-- 9:40-9:55 Louis Bastogne - _2nd-Principles Models in MULTIBINIT: Availability and Applications_ ([abstract](abstracts.md#Bastogne))
+- 9:20-9:35 Louis Bastogne - _2nd-Principles Models in MULTIBINIT: Availability and Applications_ ([abstract](abstracts.md#Bastogne))
+- 9:40-9:55 Fernando Gomez - _Time-dependent and spatially inhomogeneous electric fields in MULTIBINIT_ ([abstract](abstracts.md#Ortiz))
 - 10:00-10:15 Romuald Béjaud - _Machine Learning Assisted Sampling Package_ ([abstract](abstracts.md#Béjaud))
 
 10:20 COFFEE BREAK

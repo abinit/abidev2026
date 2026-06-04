@@ -187,8 +187,8 @@ We demonstrate the approach through first-principles calculations of the vibrati
 <hr>
  <a id="Gendron"></a>
 ### DMFT in ABINIT: Recent advances and applications
-#### Frédéric Gendron, CEA Bruyères-le-Châtel, Université Paris-Saclay, France<br>Coauthor(s): Bernard Amadon
-_No abstract_
+#### Frédéric Gendron, CEA Bruyères-le-Châtel, Université Paris-Saclay, France<br>Coauthor(s): Emmanuel Castiel, Bernard Amadon
+In this presentation we will discuss the extension of the CT-QMC solver in Abinit in order to handle complex hybridization functions.
 <br><br>
 
 <hr>
@@ -239,9 +239,14 @@ _No abstract_
 
 <hr>
  <a id="Llorente"></a>
-### Magnon-phonon dynamics in the van der Waals magnet CrSBr from first principles
-#### Rubén García Llorente, ICMAB-CSIC, Spain
-_No abstract_
+### Magnon-Phonon Dynamics in the van der Waals Magnet CrSBr - A first-principles study
+#### Rubén García Llorente, ICMAB-CSIC, Spain<br>Coauthor(s): Miquel Royo, Massimiliano Stengel
+Two-dimensional van der Waals magnets are promising platforms for studying coupled magnetic, lattice, and optical phenomena. Among them, CrSBr stands out for its unusual magnetic properties. Recent IR reflectivity measurements reveal a magnetic excitation potentially linked to magnon–phonon coupling [1], though it still lacks theoretical support.
+
+The newly developed TD-DFPT approach for noncollinear spin systems [2], implemented in ABINIT, is ideally suited to address this challenge. We use it to compute the THz linear response of CrSBr in both the lattice and spin sectors. First, we identify the magnon–phonon coupling in the magnetic and dielectric susceptibilities. Then, we reproduce the measured reflectivity to confirm the origin of the resonance. These results showcase the potential of the new implementation while exposing its current limitations, which trace back to underlying ABINIT capabilities.
+
+[1] E. Uykur et al., Phys. Rev. B 111, 174434 (2025).
+[2] M. Royo and M. Stengel, Phys. Rev. X 16, 011049 (2026).
 <br><br>
 
 <hr>
@@ -439,6 +444,14 @@ the ABINIT and VASP electronic structure codes.
 <br><br>
 
 <hr>
+ <a id="Gendron_poster"></a>
+### DMFT in ABINIT: Recent advances and applications
+#### Frédéric Gendron, CEA Bruyères-le-Châtel, Université Paris-Saclay, France<br>Coauthor(s): Bernard Amadon
+The rationalization of magnetic properties of metallic plutonium is still subject to debate nowadays from an ab-initio perspective. Elemental plutonium contains a partially filled 5f shell that should lead to strong electron correlation effects, and therefore, to a sizable local magnetic moment. However, experimentally no evidence of ordered nor disordered local
+moments has been characterized in metallic plutonium. Indeed, alloyed δ-Pu exhibits a nearly temperature-independent magnetism at low temperatures that is characteristic of a non magnetic ground state. In this presentation, we will discuss the calculated magnetic susceptibilities obtained using the combination of density functional theory and dynamical mean field theory (DFT+DMFT). Consistent with experimental data, the ground state at low temperature is found to be nonmagnetic and characterized as a mixed-valence system, where the local magnetic moment is screened by the conduction electrons. As the temperature rises a local magnetic moment emerges with antiparallel orbital and spin angular momenta, leading to a transition from Pauli-like behavior to an apparent weak Curie-Weiss magnetism in the uniform and local susceptibilities.
+<br><br>
+
+<hr>
  <a id="Lebrun_poster"></a>
 ### Electron-phonon coupling in the Two-Temperature Model
 #### Harmonie Lebrun, CEA Saclay, Université Paris-Saclay, France<br>Coauthor(s): James Boust, Fabien Brieuc, Marc Torrent
@@ -470,4 +483,3 @@ This poster presents the roadmap of my PhD project, focusing on a machine learni
 We present an efﬁcient implementation of the Zero Static Internal Stress Approximation (ZSISA) within the Quasi-Harmonic Approximation framework to compute anisotropic thermal expansion and elastic constants from ﬁrst principles. By replacing the costly multidimensional minimization with a gradient-based method that leverages second-order derivatives of the vibrational free energy, the number of required phonon band structure calculations is signiﬁcantly reduced: only six are needed for hexagonal, trigonal, and tetragonal systems, and 10–28 for lower-symmetry systems to determine the
 temperature dependence of lattice parameters and thermal expansion. This approach enables accurate modeling of anisotropic thermal expansion while substantially lowering computational cost compared to standard ZSISA method. The implementation is validated on a range of materials with symmetries from cubic to triclinic and is extended to compute temperature-dependent elastic constants with only a few additional phonon band structure calculations.
 <br><br>
-

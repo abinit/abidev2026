@@ -10,7 +10,7 @@ description: 12th International ABINIT Developer Workshop <br> Sant Feliu de Gui
 # Program
 
 _Every oral presentation is followed by some time for discussion, at least 5 minutes.  
-**invited** talks are 25 minutes + 5 minutes discussion, while other contributed talks are 15 minutes + 5 minutes discussion._
+Invited talks are 25 minutes + 5 minutes discussion, while other contributed talks are 15 minutes + 5 minutes discussion._
 
 ## Monday 8/6
 
@@ -102,7 +102,7 @@ _Every oral presentation is followed by some time for discussion, at least 5 min
 
 - 14:30-14:55 Claudia Draxl (**invited**) - _Data quality assessment through benchmarking and ML_ ([abstract](abstracts.md#Draxl))
 - 15:00-15:15 Guglielmo Marchese - _EPIq - A Wannier interpolator willing to interface with ABINIT_ ([abstract](abstracts.md#Marchese))
-- 15:20-15:35 Aldo Romero - _ABINIT-Agent: Physics-Aware AI Agent for Adaptive Electronic Structure Workflows_ ([abstract](abstracts.md#Romero))
+- 15:20-15:35 Aldo Romero - _ABINIT Q&A — LLM & RAG Evaluation: Topic Classification, Prompting Strategies, and Agentic Retrieval_ ([abstract](abstracts.md#Romero))
 
 15:40 COFFEE BREAK
 

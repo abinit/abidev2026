@@ -104,6 +104,7 @@ Chair: Philippe Ghosez
 ## Wednesday 10/6
 
 9:00-10:30 **Hackathon(s)**  
+Chair: Matthieu Verstraete, Marc Torrent  
 AI "exercises" with ABINIT
 
 10:30 COFFEE BREAK

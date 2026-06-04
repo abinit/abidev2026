@@ -30,7 +30,7 @@ to the train station and the airport (see the [Program](program.md) ).
 
 A shuttle is organized from/to Girona airport, 
 with intended departure from Girona airport
-on Sunday 7 June at 20:30, and from the hotel on Friday 12 June at 8:30 
+on Sunday 7 June at 20:30, and from the hotel on Friday 12 June at 7:45 
 to the airport (the latter is already full). 
 
 # Other questions ?

@@ -22,6 +22,8 @@ Invited talks are 25 minutes + 5 minutes discussion, while other contributed tal
 
 ### Welcome and scientific appetizers 
 
+Chair: Michel Coté
+
 - 14:30-14:35 Max Stengel - _Workshop opening_
 - 14:35-14:45 Xavier Gonze - _ABINIT project overview, introduction to the workshop_ ([abstract](abstracts.md#Gonze))
 - 14:50-15:05 Augustin Blanchet - _Thermal exchange-correlation functionals_ ([abstract](abstracts.md#Blanchet))
@@ -31,6 +33,8 @@ Invited talks are 25 minutes + 5 minutes discussion, while other contributed tal
 15:50 COFFEE BREAK
 
 ### Optimisation, algorithms and HPC 
+
+Chair: Massimiliano Stengel
 
 - 16:20-16:45 Alberto García (**invited**) - _Perspectives on Siesta development within the MaX project_ ([abstract](abstracts.md#García))
 - 16:50-17:05 Lucas Baguet - _Abinit ground-state performances on CPUs_ ([abstract](abstracts.md#Baguet))
@@ -45,11 +49,16 @@ Invited talks are 25 minutes + 5 minutes discussion, while other contributed tal
 
 ## Tuesday 9/6
 
-9:00-10:30 Discussions about AI (for coding ; for documentation and input file generation). Some experience sharing, by Matteo and He Xu (and others?).
+9:00-10:30 **Discussions**  
+Chair: Matthieu Verstraete  
+AI for coding, for documentation and input file generation).  
+Some experience sharing, by Matteo Giantomassi and He Xu (and others?).
 
 10:30 COFFEE BREAK
 
 ### Spin-phonon, magnetism
+
+Chair: Matteo Calandra
 
 - 11:00-11:25 Miquel Royo (**invited**) - _Linear response of magnets from constrained DFPT_ ([abstract](abstracts.md#Royo))
 - 11:30-11:45 Rubén Garcia Llorente - _Magnon-phonon dynamics in the vdW magnet CrSBr from first principles_ ([abstract](abstracts.md#Llorente))
@@ -62,6 +71,8 @@ Invited talks are 25 minutes + 5 minutes discussion, while other contributed tal
 
 ### Spatial dispersion properties and DFPT  
 
+Chair: Matthieu Verstraete
+
 - 14:00-14:25 Ivo Souza (**invited**) - _Optical spatial dispersion via Wannier interpolation_ ([abstract](abstracts.md#Souza))
 - 14:30-14:45 Asier Zabalo - _Natural optical activity with SOC at transparent frequencies_ ([abstract](abstracts.md#Zabalo))
 - 14:50-15:05 Chiara Fiorazzo - _Vibrational natural optical activity in crystals_ ([abstract](abstracts.md#Fiorazzo))
@@ -71,6 +82,8 @@ Invited talks are 25 minutes + 5 minutes discussion, while other contributed tal
 
 ### Electron-phonon
 
+Chair: Ivo Souza
+
 - 16:10-16:35 Matteo Calandra (**invited**) - _Ultrafast Phase Transitions from the Femtosecond to the Picosecond Scale_ ([abstract](abstracts.md#Buonaura))
 - 16:40-16:55 Vasili Vasilchenko - _Variational approach to self-trapped polarons and hopping transport_ ([abstract](abstracts.md#Vasilchenko))
 - 17:00-17:15 Matteo Giantomassi - _Electron-phonon coupling using GW perturbation theory_ ([abstract](abstracts.md#Giantomassi))
@@ -78,6 +91,8 @@ Invited talks are 25 minutes + 5 minutes discussion, while other contributed tal
 - 17:40-17:55 Guillaume Allemand - _Boltzmann Transport Equation for (magneto-) thermoelectric transport_ ([abstract](abstracts.md#Allemand))
 
 ### ABILOGIX - Forum
+
+Chair: Philippe Ghosez
 
 - 18:00-19:00 ABILOGIX presentation on gitlab migration: He Xu, Matteo Giantomassi  and Xavier Gonze. 
 - 19:00-19:15 Forum including renewal of moderators. 
@@ -88,17 +103,24 @@ Invited talks are 25 minutes + 5 minutes discussion, while other contributed tal
 
 ## Wednesday 10/6
 
-9:00-10:30 Hackathon : AI "exercises" with ABINIT.
+9:00-10:30 **Hackathon(s)**  
+AI "exercises" with ABINIT
 
 10:30 COFFEE BREAK
 
-11:00-12:00 Feedback about AI (for coding ; for documentation and input file generation)
+11:00-12:00 **Feedback**  
+Chair: Miquel Royo  
+About AI, for coding, for documentation and input file generation
 
-12:00-13:00 Review previous hackathons + discuss new ones (also beautifications ?)
+12:00-13:00 **Review previous hackathons**  
+Chair: Marc Torrent  
+Discuss new hackathons (also beautifications ?)
 
 13:00 LUNCH
 
 ### High-throughput and code interfaces. 
+
+Chair: Alberto Garcia
 
 - 14:30-14:55 Claudia Draxl (**invited**) - _Data quality assessment through benchmarking and ML_ ([abstract](abstracts.md#Draxl))
 - 15:00-15:15 Guglielmo Marchese - _EPIq - A Wannier interpolator willing to interface with ABINIT_ ([abstract](abstracts.md#Marchese))
@@ -107,6 +129,8 @@ Invited talks are 25 minutes + 5 minutes discussion, while other contributed tal
 15:40 COFFEE BREAK
 
 ### Strong correlations and time-dependence 
+
+Chair: Fabien Bruneval
 
 - 16:10-16:35 Emilio Artacho (**invited**) - _Electron dynamics in solids - from electronic stopping to quantum kicks_ ([abstract](abstracts.md#Artacho))
 - 16:40-16:55 Fabien Brieuc - _Advances regarding real-time TDDFT_ ([abstract](abstracts.md#Brieuc))
@@ -122,6 +146,8 @@ Invited talks are 25 minutes + 5 minutes discussion, while other contributed tal
 
 ### Second principles and TDEP
 
+Chair: Emilio Artacho
+
 - 9:00-9:15 Gabriel Antonius - _Recent developments in aTDEP_ ([abstract](abstracts.md#Antonius))
 - 9:20-9:35 Louis Bastogne - _2nd-Principles Models in MULTIBINIT: Availability and Applications_ ([abstract](abstracts.md#Bastogne))
 - 9:40-9:55 Fernando Gomez - _Time-dependent and spatially inhomogeneous electric fields in MULTIBINIT_ ([abstract](abstracts.md#Ortiz))
@@ -130,13 +156,17 @@ Invited talks are 25 minutes + 5 minutes discussion, while other contributed tal
 10:20 COFFEE BREAK
 
 ### Many Body Perturbation Theory
+
+Chair: Claudia Draxl
+
 - 10:50-11:05 Hsiao-Yi Tsai - _Cubic scaling spinor GW in real space and imaginary time_ ([abstract](abstracts.md#Tsai))
 - 11:10-11:25 James Boust - _Relaxed core PAW / Finite-temperature GWR_ ([abstract](abstracts.md#Boust))
 - 11:30-11:45 Christian Tantardini - _Frequency-free dynamical-screening BSE_ ([abstract](abstracts.md#Tantardini))
 	
-11:50-12:20 Discussions (e.g. continued about AI or beautifications)
+11:50-12:20 **Discussions**  
+Continued about AI or beautifications)
 
-12:20-12:30 Wrap up and final remarks
+12:20-12:30 **Wrap up and final remarks**
 
 12:30 LUNCH (Note the unusual time - other lunches are at 13:00)
 

@@ -94,7 +94,7 @@ Chair: Ivo Souza
 
 Chair: Philippe Ghosez
 
-- 18:00-19:00 ABILOGIX presentation on gitlab migration: He Xu, Matteo Giantomassi  and Xavier Gonze ([slides](Slides_Tuesday_June_8/Gonze_ABINIT_Migration_v3.pdf) ). 
+- 18:00-19:00 ABILOGIX presentation on gitlab migration: He Xu, Matteo Giantomassi  and Xavier Gonze ([slides](Slides_Tuesday_June_8/Gonze_ABINIT_Migration_v3.pdf)). 
 - 19:00-19:15 Forum including renewal of moderators. 
 - 19:15-19:30 Election of a new developer representative to ABILOGIX. 
 

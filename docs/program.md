@@ -126,7 +126,7 @@ Chair: Alberto Garcia
 
 - 14:30-14:55 Claudia Draxl (**invited**) - _Data quality assessment through benchmarking and ML_ ([abstract](abstracts.md#Draxl))
 - 15:00-15:15 Guglielmo Marchese - _EPIq - A Wannier interpolator willing to interface with ABINIT_ ([abstract](abstracts.md#Marchese))
-- 15:20-15:40 Aldo Romerao and Gian-Marco Rignanese - _Analysis of the poll about LLM and RAG_ 
+- 15:20-15:35 Aldo Romero and Gian-Marco Rignanese - _Analysis of the poll about LLM and RAG_ 
 
 15:40 COFFEE BREAK
 

@@ -32,7 +32,7 @@ Chair: Michel Coté
 
 15:50 COFFEE BREAK
 
-### Optimisation, algorithms and HPC 
+### Optimisation, algorithms, HPC - LLM+RAG evaluation 
 
 Chair: Massimiliano Stengel
 
@@ -40,8 +40,9 @@ Chair: Massimiliano Stengel
 - 16:50-17:05 Lucas Baguet - _Abinit ground-state performances on CPUs_ ([abstract](abstracts.md#Baguet))
 - 17:10-17:25 Marc Torrent - _ABINIT on GPU + Spectrum slicing algorithm_ ([abstract](abstracts.md#Torrent))
 - 17:30-17:45 Clementine Barat - _Preconditioning Magnetic systems in ABINIT_ ([abstract](abstracts.md#Barat))
+- 17:50-18:05 Aldo Romero - _ABINIT Q&A — LLM & RAG Evaluation: Topic Classification, Prompting Strategies, and Agentic Retrieval_ ([abstract](abstracts.md#Romero))^M
 
-17:50-19:30 **Poster session** - ([List & abstracts](abstracts.md#Posters))
+18:10-19:30 **Poster session** - ([List & abstracts](abstracts.md#Posters))
 
 
 19:30 DINNER
@@ -119,13 +120,13 @@ Discuss new hackathons (also beautifications ?)
 
 13:00 LUNCH
 
-### High-throughput and code interfaces. 
+### High-throughput and code interfaces. - LLM+RAG evaluation. 
 
 Chair: Alberto Garcia
 
 - 14:30-14:55 Claudia Draxl (**invited**) - _Data quality assessment through benchmarking and ML_ ([abstract](abstracts.md#Draxl))
 - 15:00-15:15 Guglielmo Marchese - _EPIq - A Wannier interpolator willing to interface with ABINIT_ ([abstract](abstracts.md#Marchese))
-- 15:20-15:35 Aldo Romero - _ABINIT Q&A — LLM & RAG Evaluation: Topic Classification, Prompting Strategies, and Agentic Retrieval_ ([abstract](abstracts.md#Romero))
+- 15:20-15:40 Aldo Romerao and Gian-Marco Rignanese - _Analysis of the poll about LLM and RAG_ 
 
 15:40 COFFEE BREAK
 

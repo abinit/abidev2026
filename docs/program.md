@@ -9,6 +9,8 @@ description: 12th International ABINIT Developer Workshop <br> Sant Feliu de Gui
 
 # Program
 
+![](Program_img.png)
+
 _Every oral presentation is followed by some time for discussion, at least 5 minutes.  
 Invited talks are 25 minutes + 5 minutes discussion, while other contributed talks are 15 minutes + 5 minutes discussion._
 

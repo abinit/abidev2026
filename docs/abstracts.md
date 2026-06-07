@@ -232,9 +232,13 @@ I will present an overview of the ABINIT project, including the historical conte
 
 <hr>
  <a id="He"></a>
-### Spin Lattice coupling by downfolding electron-phonon coupling  / Implementation of DFT+U with norm conserving pseudopotentials in ABINIT
+### TB2J Developments for Spin-Lattice Coupling and Direct ABINIT Workflows
 #### He Xu, University of Liège, Belgium
-_No abstract_
+This presentation focuses on two recent developments in TB2J: spin-lattice coupling and a direct interface with ABINIT. For spin-lattice coupling, magnetic exchange parameters are treated as functions of atomic displacements, enabling the calculation of derivatives of exchange paramter J w.r.t. atomic displacement.
+  
+The approach combines the magnetic-force-theorem Green’s-function formalism used in TB2J with electron-phonon coupling matrices obtained from DFPT, then downfolds these lattice perturbations into a localized Wannier representation. This provides real-space spin-lattice coupling parameters suitable for coupled spin-lattice dynamics and magnon-phonon coupling, with validation demonstrated on SrMnO3.
+
+The second part introduces a direct ABINIT interface for TB2J based on pseudo-atomic orbital projectors from norm-conserving pseudopotentials. Instead of requiring a separate Wannierization step, ABINIT can export the PAO-projected quantities needed by TB2J. The interface constructs projector Green’s functions, includes exchange-correlation and DFT+(U) contributions to onsite spin splitting, and enables magnetic exchange calculations directly from ABINIT planewave results. Together, these developments extend TB2J toward more efficient first-principles workflows for spin-lattice physics and broaden its integration with the ABINIT ecosystem.
 <br><br>
 
 <hr>

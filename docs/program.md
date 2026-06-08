@@ -18,7 +18,7 @@ All scientific activities take place in the `Salon Mediterraneo'._
 
 - 9:00-13:00 Self and/or collective initiation to AI for coding and documentation, for those who are already present in Sant Feliu. Also, preliminary discussions about AI. Possibly already start to work on ABINIT as exercise.
 
-- 11:00 Shuttle leaving from BCN airport to Hotel
+- 11:00 Shuttle leaving from BCN airport to Hotel. Pick-up at T1 arrival area - from flight VY8001 / Iberia IB5183 (Paris‑Orly → Barcelona).
 
 13:00 LUNCH
 

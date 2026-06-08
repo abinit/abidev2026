@@ -25,7 +25,7 @@ There are regular buses connecting both airports to Sant Feliu.
 Going from the bus station to the hotel is a 10 minute walk . 
 
 A shuttle is organized from/to Barcelona, with intended departure from Barcelona airport to the hotel
-on Monday 8 June at 11:00, and on Thursday 11 June at 13:30 from the hotel 
+on Monday 8 June at 11:00 - Pick-up at T1 arrival area (from flight VY8001 / Iberia IB5183 Paris‑Orly - Barcelona-, and on Thursday 11 June at 13:30 from the hotel 
 to the train station and the airport (see the [Program](program.md) ).
 
 A shuttle is organized from/to Girona airport, 

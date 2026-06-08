@@ -43,6 +43,7 @@ Chair: Massimiliano Stengel
 - 17:10-17:25 Marc Torrent - _ABINIT on GPU + Spectrum slicing algorithm_ ([abstract](abstracts.md#Torrent))
 - 17:30-17:45 Clementine Barat - _Preconditioning Magnetic systems in ABINIT_ ([abstract](abstracts.md#Barat))
 - 17:50-18:05 Aldo Romero - _ABINIT Q&A — LLM & RAG Evaluation: Topic Classification, Prompting Strategies, and Agentic Retrieval_ ([abstract](abstracts.md#Romero))
+
 18:10-19:30 **Poster session** - ([List & abstracts](abstracts.md#Posters))
 
 
@@ -139,7 +140,7 @@ Chair: Fabien Bruneval
 - 16:40-16:55 Fabien Brieuc - _Advances regarding real-time TDDFT_ ([abstract](abstracts.md#Brieuc))
 - 17:00-17:15 Frederic Gendron - _DMFT in ABINIT: Recent advances and applications_ ([abstract](abstracts.md#Gendron))
 - 17:20-17:35 Mauricio Rodriguez - _NOFT, an efficient approach for strongly-correlated systems_ ([abstract](abstracts.md#Mayorga))
-- 17:40-17:55 Olivier Gingras - _Strong correlations in ABINIT: Interface to triqs_modest_ ([abstract](abstracts.md#Gingras))
+- 17:40-17:55 Olivier Gingras - _Exploiting the modularity of triqs_modest in DFT+DMFT calculations_ ([abstract](abstracts.md#Gingras))
 
 18:00-19:30 Advisory board meeting (only for advisory board members)
 

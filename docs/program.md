@@ -42,8 +42,7 @@ Chair: Massimiliano Stengel
 - 16:50-17:05 Lucas Baguet - _Abinit ground-state performances on CPUs_ ([abstract](abstracts.md#Baguet))
 - 17:10-17:25 Marc Torrent - _ABINIT on GPU + Spectrum slicing algorithm_ ([abstract](abstracts.md#Torrent))
 - 17:30-17:45 Clementine Barat - _Preconditioning Magnetic systems in ABINIT_ ([abstract](abstracts.md#Barat))
-- 17:50-18:05 Aldo Romero - _ABINIT Q&A — LLM & RAG Evaluation: Topic Classification, Prompting Strategies, and Agentic Retrieval_ ([abstract](abstracts.md#Romero))^M
-
+- 17:50-18:05 Aldo Romero - _ABINIT Q&A — LLM & RAG Evaluation: Topic Classification, Prompting Strategies, and Agentic Retrieval_ ([abstract](abstracts.md#Romero))
 18:10-19:30 **Poster session** - ([List & abstracts](abstracts.md#Posters))
 
 

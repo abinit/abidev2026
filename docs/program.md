@@ -122,7 +122,7 @@ Discuss new hackathons (also beautifications ?)
 
 13:00 LUNCH
 
-### High-throughput and code interfaces. - LLM+RAG evaluation. 
+### Data quality - code interfaces - LLM+RAG evaluation. 
 
 Chair: Alberto Garcia
 

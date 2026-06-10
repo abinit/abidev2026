@@ -209,9 +209,13 @@ which enables the efficient pre-computation, distributed MPI storage, and NetCDF
 
 <hr>
  <a id="Gingras"></a>
-### Strong correlations in ABINIT: Interface to triqs_modest (MODular Electronic STructure package)
+### Exploiting the modularity of triqs_modest in DFT+DMFT calculations
 #### Olivier Gingras, Flatiron Institute, USA
-_No abstract_
+The increasing complexity of realistic DFT+DMFT calculations calls for software infrastructures that remain flexible, extensible, and easy to adapt to new methodological developments. In this talk, I will present the interface between ABINIT and triqs_modest (Modular Electronic Structure Toolkit), an open-source framework for DFT+DMFT built on the TRIQS ecosystem.
+
+A central design principle of triqs_modest is modularity. The framework provides interchangeable components for key stages of the DFT+DMFT workflow, allowing users to tailor calculations to the problem at hand. Examples include adaptive Brillouin-zone integration schemes, flexible definitions of impurity problems, and access to multiple impurity solvers through a universal solver interface. This architecture facilitates both methodological development and the rapid exploration of different computational strategies without requiring substantial modifications to the overall workflow.
+
+I will give a brief overview of the ABINIT–triqs_modest interface and illustrate how this modular design enables advanced DFT+DMFT calculations while leveraging ABINIT as the underlying electronic-structure engine.
 <br><br>
 
 <hr>
@@ -404,13 +408,6 @@ _No abstract_
 Several long-debated dynamical and elastic anomalies of δ-Pu and its alloys (Pu-Al/Ga/In) have been captured within an unprecedented unified theoretical framework. This achievement is made possible by machine learning-accelerated ab initio simulations, which enable a detailed description of strong electronic correlations and explicit temperature effects.
 For pure δ-Pu, the present simulations—within this unified framework—successfully reproduce the experimental observations of negative thermal expansion, equilibrium volume, and anomalous softening of elastic properties. Our analysis demonstrates that the distinctive behavior of δ-Pu is almost entirely attributable to large anharmonic effects, which are linked to the extreme softening of the phonon spectrum.
 This simulation approach has recently been extended to Pu-Al/Ga/In alloys. The results reveal significant anharmonic effects upon the addition of δ-stabilizing elements and reproduce the well-known invar effect in δ-Pu alloys, where thermal expansion transitions from negative to positive as a function of Al/Ga/In content. These results are a step forward toward a better understanding of alloying effects in plutonium.
-<br><br>
-
-<hr>
- <a id="Bruneval_poster"></a>
-### Comparison of Plane-Wave and Gaussian Basis Sets for Correlated Wavefunction-based Methods in Solids
-#### Fabien Bruneval, CEA Saclay, Université Paris-Saclay, France
-_No abstract_
 <br><br>
 
 <hr>
